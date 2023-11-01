@@ -1,0 +1,560 @@
+premise,choice1,choice2,question,idx,label
+Cowok itu mangku tasnya pas lagi naek angkot,Cowoknya jaga-jaga biar tasnya gak diambil,Tasnya empukk,cause,0,0
+Kulitnya bentol2,Ia digigit nyamuk,Ia dipatok ayam,cause,1,0
+Bokap gue masuk angin,Bokap gue abis nyalon,Bokap gue abis ngeronda,cause,2,1
+Jarinya bocah itu sakit,Dia kebanyakan main enggrang,Dia kebanyakan maen kelereng,cause,3,1
+Doi sedih,Nilai rapotnya pada merah ,Nilai rapotnya ijo-ijo,cause,4,0
+Ibu itu kesenengan,Namanya kepilih undian arisan,Namanya gak kepilih undian arisan,cause,5,0
+Orang itu makan nasi porsi kuli,Orang itu bosen makan nasi,Orang itu belom makan dari kemaren,cause,6,1
+Ia kegelian,Temennya ngegosokin kemoceng di kakinya,Temennya ngegosokin kentongan di kakinya,cause,7,0
+Dia gak naik kelas,Dia jarang study,Dia takut ketinggian,cause,8,0
+Pria itu baru aja kelar solat berjamaah. Ia kaget.,Bajunya ilang diembat orang,Sendalnya ilang diembat orang,cause,9,1
+Cewek itu ikut latian saman,Dia doyan ilmu mistis,Dia demen nari,cause,10,1
+Cowok itu makan di warteg,Dia lg kepingin makan makanan mewah,Dia lg hemat,cause,11,1
+KPR bapak macet,Bapak dipecat dari kantor,Bapak jarang bersiin rumah,cause,12,0
+Kakak juara lomba gurindam,Kakak perkasa banget,Kakak kreatif banget,cause,13,1
+Bapak itu mesen ojek,Dia ngantuk banget,Dia pingin berangkat ke kantor,cause,14,1
+Ibu kos dateng,Dia mau bikin lomba masak,Dia lagi mau nagih duit,cause,15,1
+Mahasiswa itu keliatan grogi,Bentar lagi sidang pidana,Bentar lagi sidang skripsi,cause,16,1
+Ia latian gerakan kuda2,Ia lagi belajar silat,Ia lagi belajar naik kuda,cause,17,0
+Kakinya kapalan,Doi nahkoda kapal,Dia jarang make alas kaki,cause,18,1
+Bussinesman kelas kakap itu akhirnya jatoh juga,Hotel2nya sepi pengunjung karena pandemi,Ikan kakap yang dia jual jatoh dr meja,cause,19,0
+Cewek itu pengen banget jadi artis,Dia belajar seni melukis dan menggambar,Dia coba hoki-hokian ikut audisi nyanyi,effect,20,1
+Mahasiswa itu kepregok nitip absen,Mahasiswa itu di-DO dari kampus,Dosennya ngasih dia nilai F,effect,21,1
+Cowok SMA itu rambutnya gondrong,Gurunya ngehukum siswa itu,Gurunya ngeapresiasi siswa itu,effect,22,0
+Pak ogah bantuin mobilnya muter balik,Dia ngasih pak ogah duit receh,Dia ngasih pak ogah hampers,effect,23,0
+Pengunjung itu ngasih tip 5% ke pelayan,Pelayan itu kesel,Pelayan itu kesenengan,effect,24,1
+Banyak banget pungli disepanjang jalan,Dia jadi bete,Perjalanan makin mulus,effect,25,0
+Dia pengen ngapdet SIM-C-nya,Ia dateng ke kantor samsat,Ia dateng ke toko hape,effect,26,0
+Sopir truk jarak jauh itu bosen,Dia nyetel dangdutan,Dia nyetel lagu jazz,effect,27,0
+Cowo itu latian angklung tiap hari,Dia makin jago maen musk,Dia makin jago nyetir,effect,28,0
+Segerombolan pemuda lagi adventure di Kalimantan,Mereka ketemu harimau liar,Mereka ketemu komodo,effect,29,0
+Gue minum aer kobokan,Gue berasa seger,Perut gue sakit,effect,30,1
+Got di komplek perumahaan itu mampet.,Pak RT nyiram cairan pelarut sampah,Pak RT bikin acara kerja bakti,effect,31,1
+"Hari senin, bocah SD itu bangun jam 6 pagi",Bocah SD itu langsung siap2 cabut ke sekolah,Bocah SD itu tidur lagi,effect,32,0
+Dia didatengin pengamen,Dia ngasih receh ke pengamen itu,Dia ngasih gitar ke pengamen itu,effect,33,0
+Banyak yang ngebegal di sekitar komplek,Gue jadi senget banget,Perasan gw cermas,effect,34,1
+Cowo itu mau nembak gebetannya di sekolah,Dia bawa bunga,Dia bawa pistol,effect,35,0
+Itu anak pengen banget makan nasi sm ayam goreng tepung,Dia cabut ke Subway,Dia cabut ke Burger King,effect,36,1
+Ada kasus demam berdarah di komplek itu,Mereka ngadain penyemprotan,Mereka manggil detektif,effect,37,0
+Kakinya kekilir,Ia cabut ke tukang urut,Ia cabut ke tukang bekam,effect,38,0
+Keliatan layang2 putus,Segerombolan bocah2 pada kabur dari layangan itu,Segerombolan bocah2 ngejar layang2 itu,effect,39,1
+Alergi kacangnya kumat n dia gatel2,Dia makan cendol,Dia makan ketoperak,cause,40,1
+Orang itu nangis kepedesan,Dia makan ayam penyet,Dia makan ayam kremes,cause,41,0
+Listrik di rumahnya modar,Ia lupa ngisi ulang token PLN,Ia lupa ngisi ulang token PAM,cause,42,0
+Tinta kuningnya abis,Ia nyetak 1000 selebaran promo PDIP,Ia nyetak 1000 selebaran promo Golkar,cause,43,1
+Bocah itu jerit2 ketakutan,Ia ngeliat onde2,Ia ngeliat ondel2,cause,44,1
+Bapak itu merantau ke Jkt,Dia mau traveling,Dia mau cari penghidupan yg lbih baik,cause,45,1
+Itu mas-mas dibawa kabur ke RS,Dia ngebir oplosan,Dia ngebir pletok,cause,46,0
+Ia masuk ke Indomaret,Ia keapean di luar dan mau cari kursi,Ia kegerahan di luar dan mau ngadem,cause,47,1
+Nyokap pergi ke Pasar Minggu,Nyokap pengen shopping,Hari ini hari minggu,cause,48,0
+Ia ngerasa gak betah,Orang di sebelahnya kebanyakan makan jengkol,Orang di sebelahnya doyan makan tempe orek,cause,49,0
+Emak beli beras ketan,Emak pengen masak kue lumpur,Emak pengen masak kue lemper,cause,50,1
+Perempuan itu pergi k Gambir,Ia pengen makan siang,Ia mau pergi ke luar kota,cause,51,1
+Cewek itu traveling ke Puncak,Cwe itu butuh healing,Ciwi itu dah 10 taun kerja di perusahaannya,cause,52,0
+Bpk itu senang bgt,Ada lemper di box makanannya,Ada lipan di box makanannya,cause,53,0
+Dia rajin ngangkat beban,Ia pengen kaya Ade Rai,Ia pengen kaya Syahrini,cause,54,0
+Ia traveling ke Soetta,Ia ada keperluan di Bandung,Ia ada keperluan di Makassar,cause,55,1
+Bocil itu ketakutan,Dia ngimpi ngeliat polri,Dia ngimpi ngeliat pocong,cause,56,1
+Anak itu njerit histeris,Dia naek kora2,Dia naek odong2,cause,57,0
+Ia ad urusan ama polisi,Ia lupa bawa KK pas nyetir,Ia lupa bw STNK pas nyetir,cause,58,1
+Pria itu ngapdet KK-nya,Ia abis lulus kuliah,Ia abis nikah,cause,59,1
+Dokternya ngasih saran buat ngurangin konsumsi karbo,Ia stop makan lontong sayur,Ia stop makan rujak buah,effect,60,0
+Ia pengen traveling ke Ancol,Ia pake jaket tebel,Ia make sunscreen,effect,61,1
+Ia mau cari buku bacaan baru,Doi pergi k Barnes Noble,Doi pergi k Gunung Agung,effect,62,1
+Orang itu asli ngidol Gatot Kaca,Dia jadi demen nyalon,Dia jadi demen olahraga,effect,63,1
+Dia diminta bikin laporan ttg pahlawan nasional,Dia nulis ttg Diponegoro,Dia nulis ttg Martin Luther King Jr.,effect,64,0
+Gw gak sengaja numpahin kuah gulai,Baju gue jadi ijo,Baju gue jadi kuning,effect,65,1
+Hari ini liburan  Idul Fitri,Orang2 pergi mudik,Orang2 pada itikaf di masjid,effect,66,0
+Ada acara keroncongan di kampung,Banyak warga kelaperan,Banyak warga terhibur,effect,67,1
+Kakak gue ngefans banget sama Joko Anwar,Kakak gue pengen masuk politik,Kakak gue pengen berkarya di dunia filem,effect,68,1
+Kakak gw ngefans abis sama Joko Widodo,Kakak gue pengen masuk politik,Kakak gue pengen berkarya di dunia filem,effect,69,0
+Anak SMA itu kepingin banget lanjut studi di ITB,Anak itu belajar IELTS,Anak itu ikutan bimbel,effect,70,1
+Bokap kebanyakan ngisep Gudang Garam,Bokap sakit paru2,Bokap darah tinggi,effect,71,0
+Sekumpulan bocil2 lompat2 di TransJakarta,Mereka ditegur penumpang lainnya,Banyak bocil laennya yg jadi ngikut lompat2,effect,72,0
+Sekumpulan anak lompat2 di Trans Studio,Mereka ditegur penumpang lainnya,Banyak anak lain yg ngikut lompat2,effect,73,1
+Dia makan es teler setiap hari,Dia diabet,Dia teler,effect,74,0
+App QRIS-nya rusak,Dia manggil tukang servis,Dia jadinya pake kartu debit,effect,75,1
+Dia pengen dapet kursi DPR,Dia bikin kampanye gede2an,Dia beli kursi di toko furnitur,effect,76,0
+Cewe itu pengen banget makan nasi padang,Dia pesen tiket pesawat ke padang,Dia pesen pake app,effect,77,1
+Anak itu jalan kaki keliling taman mini,Dia gak capek,Dia kecapean bgt,effect,78,1
+Doi ganteng coy,Doi cari kerjaan di Tanah Abang,Doi ngajuin diri jd Abang Jakarta,effect,79,1
+Polisi ngamanin stadion,Persija dan Persebaya lagi ribut,NU dan Muhammadiyah lagi rusuh,cause,80,0
+Mereka sekeluarga sehari2 makan raskin,Bokapnya kerjanya mulung,Bokapnya direktur Telkomsel,cause,81,0
+Rambut cewek itu udah kaya mak lampir,Dia jrg mandi,Dia sering krimbath,cause,82,0
+Laporan BMKG bikin warga panik,Bakalan inflasi,bakalan badai,cause,83,1
+Dia seneng tinggal di kebon jeruk,Akses ngantornya gampang,Dia bisa makan jeruk tiap hari,cause,84,0
+Dia gak demen tinggal di Kelapa Gading,Kelapa bikin mual,Jalananny macet cuy,cause,85,1
+Mahasiswa lagi danus buat kegiatan mahasiswa,Mereka keliatan lg jualan piscok,Mereka keliatan lagi jualan hape,cause,86,0
+Tiba2 bapak didatengin rentenir,Poto KTP-nya buocor,Poto ijasahnya ke-leak,cause,87,0
+Dia dibawa ke rumah sakit,Dia ga sengaja nelen biji salak,Dia gk sengaja nelen biji pepaya,cause,88,0
+Dia dirujak ama temen2ny,Ia doyan buah2an,Dia bikin opini yg kontroversial,cause,89,1
+Anak itu diterima masuk UI,Sekeluarga numpengan nasi uduk,Sekeluarga numpengan nasi kuning,effect,90,1
+Emak belanja di pasar,Dia ngebayar pake ApplePay,Dia bayar pake uang kertas,effect,91,1
+Anak itu pengen merantau,Ibunya ngebekelin rendang,Ibunya ngebekelin kerupuk,effect,92,0
+Kelakuannya udah kaya dajjal,Dia banyak dimusuhin orang,Dia banyak temen,effect,93,0
+Itu orang kena kecelakaan mobil,Doi dilariin ke UGD,Orang itu dibawa cabut ke puskesmas,effect,94,0
+"Ibu nyampurin gula, garem, sama jeruk di masakannya",Rasa makanannya nano2,Rasa makananny dah kyk kopiko,effect,95,0
+Gue lagi hemat,Gue naik Damri,Gue naik Blue Bird,effect,96,0
+Gw telat masuk kantor,Gue langsung nyetop angkot,Gue langsung pesen Gojek,effect,97,1
+Dia demen berjemur,Dia sering bgt main ke Lombok,Dia sering bgt main ke Lembang,effect,98,0
+Ada pesta makan rengginang,Bnyk remah2 di lantai,Mereka ditangkep aparat,effect,99,0
+Dia dikenal sbg kembang desa,Tampangnya cantik pol,Dia banyak banget nanem kembang di sekitar rumah,cause,100,0
+Air seninya bening,Dia kebanyakan minum air,Cat warnanya abis,cause,101,0
+Dia suka dipanggil muka badak,Dia selalu mejeng di depan kelas,Dia suka make topeng badak,cause,102,0
+Rumahnya dimakan si jago merah,Yg punya rumah lupa matiin kompor,Si jago merah laper,cause,103,0
+Jalanan macet,Mahasiswa lg demo praktikum,Mahasiswa pd demo,cause,104,1
+Dia ngadu domba tetangganya,Tetangganya jadi ribut,Domba tetangganya pada luka,effect,105,0
+Anak itu ngidam bgt nuntut ilmu di negeri sakura,Dia cabut ke pengadilan Tokyo,Dia belajar bhs Jepang,effect,106,1
+Dia always jadi mhs kupu2,Dia jd good looking,Dia hampir kagak ada pengalaman,effect,107,1
+Ia selalu jadi mahasiswa kura2,Ia kurang bobo,Jalannya lemot,effect,108,0
+Orang itu udah bau tanah,Orang itu doyan kemping,Orang itu demen bgt sakit,effect,109,1
+"Td ada cewe lewat dpn tukang bakso, tiba2 tukang baksonya senyum njirrr",Tukang baksonya lg kesel ma cewe itu,Tukang baksonya lg nyapa cewe tu,cause,110,1
+Tu mertua dpt menantu idaman,Menantunya org freelancer,Menantunya org PNS,cause,111,1
+Malem2 jalanan rame bet,Hari ini sabtu cuy,Hari ini jumat cuy,cause,112,0
+Anak2 SMA pke bajuny yg dicoret2,Anak2 SMAny baru lulus,Anak2 SMAnya baru diterima,cause,113,0
+Pagi2 hari minggu org2 komplek pd ngumpul,Org2 komplek otw nonton bola,Org2 komplek otw kerja bakti,cause,114,1
+Murid itu bs bikin tenda,Murid itu join OSIS,Murid itu join Pramuka,cause,115,1
+Penonton pd joget2 di lapangan,Literally pada lg nonton konser dangdut,Literally pada lg nonton konser metal,cause,116,0
+"Malem2 org pada bakar jagung, sosis, sama ikan",Bsk tgl 1 Januari,Bsk tgl 17 Agustus,cause,117,0
+Om pake sarung ama kokoan ama pecian,Si om mau ke mesjid,Si om mw mancing,cause,118,0
+Malin kundang jadi batu cok,Malin kundang nyolong pusaka kerajaan njir,Malin kundang jahat bet ke nyokapnya,cause,119,1
+Si bawang putih ditorture nyokapny,Bawang putih kan cm nak tiri ,Bawang putih kek kurang ajar ke nyokapny,cause,120,0
+"Lebaran nich, Jakarta sepi bet yak",Pada nyepi ges orang2nya,Pada pulang kampung ges orang2nya,cause,121,1
+Orang bugis mesti fix pake bgt sih nabung sbelum merit ,Maharnya mahal bet cuy,Duitnya for the one yg membutuhkan,cause,122,0
+Lantai rumahny jarang bet berdebu,Everyone should lepas sepatu before masuk rumah,Yang punya sering bet leave their house,cause,123,0
+Sepupu w siang2 pake jaket,Sepupu gua lg flu,Sepupu gua takut kulitny item,cause,124,1
+Gue makan lalapan pake tangn,Lebih gmpang ae ngambil lalapannya ygy,Jadi rasa syukur ke tuhan ygy,cause,125,0
+Kakak lg bikin sambel terasi,Kakak bikinnya diulek gt,Kakak biarin sambel sm bahan lainny mentah,cause,126,0
+Anak2 jogja gk boleh keluyuran diatas jam 10 malem,Literally di jogja lg gempa terus,Literally lagi bnyak bgt klitih,cause,127,1
+Gua ga dibolehin nonton bola Persib lawan Persija ma nyokap,Keknya gamenya boring,Keknya bakalan rusuh,cause,128,1
+Bokap dapet gaji tambahan pas hari raya ygy,Gaji tambahannya itu duit pensiun,Gaji tambahannya itu THR,cause,129,1
+Ujian sekolah taun ini pke LJK,Murid brings their pensil,Murid brings their pen,effect,130,0
+"Awal2 bulan, emak pergi ke warung",Emak ngisi token listrik rumah,Emak ngops di warung,effect,131,0
+Tu org suka bet nyante pake kaos kutang ma sarung,Doi dipanggil kek gen z,Doi dipanggil kek bapak2,effect,132,1
+Punggung om dikerokin,Badan om jdnya g perih lg,Badan om jdinya ga masuk angin lagi,effect,133,1
+Si bendahara kelas lagi ultah ,Si bendahara kelas digaremin ma temen2nya,Si bendahara kelas ditepungin ma temen2nya,effect,134,1
+Kita respect bet sama pengorbanan para pahlawan,Kita ikut upacara terus tiap senin,Kami mengikuti aktivitas kemah setiap minggu,effect,135,0
+Hari ini lagi nyepi,Jalan2 di Bali pada sepi,Jalan2 di Bali pada rame,effect,136,0
+Tante lagi healing ke lombok,Tante dateng ke pantai,Tante dateng ke tmpat ski,effect,137,0
+Sohib gua tinggalny di sekitaran SCBD,Biaya hidup doi murah,Biaya hidup doi mahal,effect,138,1
+Abang jagain kebersihan badannya,Abang mandi 2 hari sekali,Abang mandi 2x sehari,effect,139,1
+Gw tiba2 laper pas malem2,Gw beli nasgor,Gw beli nasduk,effect,140,0
+Adek nyapu lantai ga bersih,"Mami yang percaya mitos bilang ""Ntar suami lo gembul""","Mami yg percaya mitos bilang ""Ntar suami lo brewokan""",effect,141,1
+Pak Kades ma keluarga kelar makan di resto,Pak Kades ngasih tips ke pelayan,Keluarga Pak Kades cabut trus balik ke rumah,effect,142,1
+Dosenku beli padang trus mau dibawa pulang,Dosenku ga dapet daging di padangny,Nasinya dapet banyak,effect,143,1
+Hari ini kartinian,Ciwi-ciwi sekolahan pakenya kebayaan,Ciwi-ciwi sekolahan pada diliburin,effect,144,0
+Adek yg masih TK mau berangkat sekolah,Adek nunggu bis sekolah,Adek nyium tangan ortu,effect,145,1
+Satu keluarga mau bukber,Bukbernya pake makanan manis,Bukbernya pake makanan asin,effect,146,0
+Adek makan ayamnya gapake nasi,Makanannya kek ga kenyang gitu,Makannnya kek ga enak gitu,effect,147,0
+Keluarga yg percaya mitos itu punya banyak anak,Keluarga itu yakin bakalan dpt banyak ilmu,Keluarga itu yakin bakalan dpt banyak rezeki,effect,148,1
+Warung kita gapunya uang receh,Gantiin uang recehny pake ciki,Gantiin uang recehny pake bombon,effect,149,1
+Paman gamau diajak ke Malang,Paman gatahan dingin,Paman gatahan panas,cause,150,0
+Aku dateng ke acara Mamah dedeh,Aku pengen berobat,Aku pengen curhat,cause,151,1
+Pak Jokowi jadi deket ma masyarakat,Pak Jokowi suka blusukan,Pak Jokowi suka muncul di TV,cause,152,0
+Cewek itu baru aja makan seblak,Badanny jadi kek panas,Badannya jadi kek capek,cause,153,0
+Keluarga gue habis gasnya,Kita baru aja keliling keliling Jakarta pake mobil,Kita baru aja masak banyak makanan,cause,154,1
+"Habis upacara, gua minum cendol",Badan gua jadi seger bet,Badan gua jadi anget bet,cause,155,0
+Bocil2 makin sering halu jadi karakter fantasy,Rombongannya jd bisa ngeliat pemandangan kota,Rombongannya jd ngenikmatin suasana udara dingin,cause,156,0
+Gue bawa baju renang pas mau berangkat,Gue bakalan ke Gunung Kidul,Gue bakalan ke Ancol,cause,157,1
+Andi F Noya ngelakuin hal gila,Dia ngebelain teroris di sidang hari ini,Dia ngewawancarain teroris di TV,cause,158,1
+Iwan Fals fansnya banyak,Iwan Fals aktingnya mantep,Iwan Fals nyanyiannya mantep,cause,159,1
+Pak Bos ga banyak makan nasi pas di papua,Sagu makanan pokoknya disana,Jagung makanan pokoknya disana,cause,160,0
+Bakpia cucok bet dijadiin cemilan,Bakpia kek literally kecil gitu,Bakpia kek literally renyah gitu,cause,161,0
+Mata om berkunang-kunang,Om kerja terus ga berenti2 seharian,Om ga mandi2 udah seharian,cause,162,0
+Raja Ampat pesonanya keren banget rill,Pemandangan bawah lautnya top banget deh,Orangnya ma kelakuannya bener2 berwibawa banget,cause,163,0
+Pak Raden ngegerakin boneka si Unyil,Pak Raden lagi ngeakting,Pak Raden lagi nyeritain suatu kisah,cause,164,1
+Raul Lemos dan Krisdayanti hidup bareng,Mereka kawin,Mereka sodara kandung,cause,165,0
+Sate Madura rasanya manis pol2an,Bumbunya dibuat dri gula merah,Bumbunya dibuat dri madu,cause,166,0
+Nyokap gasuka nonton topeng monyet,Topeng monyet bikin mereka tertahan dri kebebasan,Bentuknya topeng monyet nyeremin,cause,167,0
+Bokap dateng ke pom bensin mau buang air besar,Bokap tadi makan banyak beud nasi,Ember di mobil udah kepenuhan,cause,168,0
+Gue ke bundaran HI mau cuci mata,Gue mau nyari cewek cans,Mata gue kena debu,cause,169,0
+Chef Bondan baru aja kelar masak di tipi,"Dia bilang ""Maknyus""","Dia bilang ""Chuakz""",effect,170,0
+Bung Tomo lgi pidato di Surabaya,Bung Tomo ngebakar semangat kemerdekaan orang2 indo,Bung Tomo ngalemin keselnya jendral Belanda,effect,171,0
+Sore2 lagi berangin,Bocil2 bisa main bultang,Bocil2 bisa main layangan,effect,172,1
+Biji kopi dibuat dri Luwak,Kopi luwaknya jadi wenak,Kopi luwaknya jadi disgusting,effect,173,0
+Wisatawan pake kaos ijo ke pantai parangtritis,Si paling mitos takut dia gosong kena matahari pantai,Si paling mitos takut dia larut kena ombak,effect,174,1
+Nenek beli pempek kapal selam,Dia suka sama telor rebus yang ada didalemnya,Dia ngeliat pempeknya ngapung di dlm aer,effect,175,0
+Gua brangkat sekolah pake motor bebek,Motor gua bisa ngapung diatas air,Gua harus pindahin giginya pake cara manual,effect,176,1
+Kaleng krupuknya gak ditutup rapet,Kerupuknya melempem,Krupuknya basi,effect,177,0
+Gua mau ngehemat,Gua beliny pecel lele,Gua beliny ayam KFC,effect,178,0
+Giring Nidji naik ke panggung,Giring mw nyanyiin lagu,Nidji dibawa cabut ma petugas keamanan,effect,179,0
+Pak Tarno nepuk2 tangannya,Dia lagi ngasih pujian,Dia mau mulai sulapnya,effect,180,1
+Anak komplek lagi main2 gobak sodor,Mereka berlomba ngasih2in gobak ke temenny,Mereka berusaha ngindar2in temenny,effect,181,1
+Bapak mw selfie,Bapak posing pegangan tangan,Bapak posing jempol,effect,182,1
+Pedagang itu jualannya kerak telor,Dia ngebalikin wajannya,Dia pake kulit telor buat jadi bahan jualannya,effect,183,0
+Bini gweh pgn beli ikan mas,Bini gweh lagi transaksi sama mas2 jawa,Bini gweh mau masak gulai for today,effect,184,1
+Pak Kumis org Sukabumi,Pak Kumis menanam pohon,Pak Kumis bs bahasa Sunda,effect,185,1
+Abangku lg di Palu,Abang meluncur ke Sulawesi,Abangku luka2 dan dibawa ke RS,effect,186,0
+Mbah Surip tiba2 langsung gendong gue,Gue dibawa pulang kerumah ,Gue dibawa2 keliling2 ke macam2 tempat,effect,187,1
+Ariel ama Peterpan lgi naik daun,Bocil2 makin serin ngehalu jadi karakter fantasy,Album mereka makin bnyk yg beli,effect,188,1
+Sapi itu lgi ga enak badan,Daging sapiny ga laku2,Sapiny lemes seharian,effect,189,1
+Kakak kecewa pas lagi buka kaleng biskuit,Isinya malah Rengginang,Kalengnya dibuat dri besi,cause,190,0
+Ibu beli daun janur pas sudah mau lebaran,Ibu mw buat ketupat,Ibu mw buat es buah,cause,191,0
+Ada museum bencana alam di Aceh,Dulu pernah ada gempa bumi njirrr di Aceh,Dulu pernah ada tsunami njirrr di Aceh,cause,192,1
+Kakak2 itu jalan bungkuk pas lewat dpn bonyok,Basically kakak2 itu lagi ngehormatin sama yg lebih tua,Basically kakak2 itu lagi ngagumin yang lebih tua,cause,193,0
+Pamanku suka ngasih cendol di inet,Pamanku main 1cak,Pamanku main kaskus,cause,194,1
+Kepolisian angkat tangan waktu mau nanganin kasus Novel Baswedan cuyyy,Keadilan ke Novel Baswedan hrs ditegakkan,Buktiny dikit bgt,cause,195,1
+Adek kesemutan after tadarusan di mesjid,Adek gak bersihin gula yg tumpah,Adek duduk silanya kelamaan,cause,196,1
+Kami OTW sholat di langgar,Kami pengen bgt dpt pahala yg buanyak,Kami tiba2 ad acara yg mendadak bgt,cause,197,0
+Kota Bandung literally dibilang kota lautan api,Pas jadul prnah kejadian ad perang besar,Pas jadul prnah kejadian ad kebakaran besar,cause,198,0
+OMG jalan raya dpn tu rumah org ditutup,Mereka lg ngadain pesta hajatan,Mereka lg ngadain pesta ultah,cause,199,0
+Wifey udh lama gk datang bulan,Obviously kami nungguin bulan purnama,Obviously kami buru2 ke RS,effect,200,1
+Lampu merah pancoran kelamaan,Lampu merahny jd mati,Aku jd terlambat dateng ke seminar,effect,201,1
+Motor matic temanku mogok di jalan,Aku nge-stut motor bareng dia,Aku manggil mobil derek biar motornya diangkutin,effect,202,0
+Bocah penjabat ad orang dalam,Dia lolos gapake ujian dulu,Dia gaperlu ngurus rumah lg,effect,203,0
+Kami lewat simpang empat yg gak ad lampu merah,Ad Pak Raden yang ngaturin lalu lintasny,Ad Pak Ogah yang ngaturin lalu lintasny,effect,204,1
+Orang2 pada masukin nama Pak SBY ke kotak suara cuy,Pak SBY jdi presiden ,Pak SBY nyanyiny semangat bgt,effect,205,0
+Acara wisuda ITS lgi pada arak arakan,Mahasiswa pada mabok terus tepar semua,Mahasiswa ngasih sorak2an ke wisudawan,effect,206,1
+Ak disuruh beli beras di supermarket yg sizenya paling kecil,Ak bawa pulang beras 5 sendok makan,Ak bawa pulang beras 5 kilo,effect,207,1
+Nasi malam kmrn ga habis,Mama masak nasi kebuli pagi ini,Nyokap masak nasgor pagi ini,effect,208,1
+Sangkuriang nendang perahu cok,Tuh perahu jd gunung,Tu perahu anyut kelaut,effect,209,0
+Actually today mall sepi bgt,Today tanggal tua,Today tanggal muda,cause,210,0
+Honestly tu bocil hidup sebatang kara,Tu bocil anak yatim,Tu bocil kerja jadi petani,cause,211,0
+Para pemuda literally berjuang dan willing to die pas jaman penjajahan,Fix NKRI harga mati,Fix Harga NKRI mati,cause,212,0
+Basically tu bocil SD sering bet dah ke perpus kota,Tu bocil have a job as pustakawan,Tu bocil kutu buku,cause,213,1
+Client angkat kaki dari meeting,Kakiny client pegel bgt,Client kcewa ama meeting proposal,cause,214,1
+OMG adik rebel mulu sm kata bokap,Bokap jdnya besar kepala deh,Bokap jdnya naik pitam deh,effect,215,1
+I failed jadi polisi,I jadi rusak hati,I jadi kecil hati,effect,216,1
+My neighbor's house barusan kebobolan maling,Dia literally gigit jariny sendiri,Dia literally cuma bisa gigit jari,effect,217,1
+Tu org become kaki tangan teroris,Tu org suspected bersalah,Tu org jd tawanan,effect,218,0
+Usaha tu company rugi mulu udh setaun,Tu company gulung tikar njir,Tu company sampah masyarakat njir,effect,219,0
+Tuh orang eropa kena diare,Orang itu maem makanan yg dibeli pinggir jalan,Orang itu maem makanan yg bli di warteg,cause,220,0
+Bocah itu mual dan muntah,Bocah itu minum aer keran,Tuh bocah minum aer galon,cause,221,0
+Motornya lawan arah,Tujuannya deket,Ga ada mobil di jalanan,cause,222,0
+Murid skolah ngumpul di lapangan skolah tiap jam 7 pagi hari senen,Ada acara ramah tamah mingguan di skolah itu,Ada upacara bndera mingguan di skolah itu,cause,223,1
+Bocah itu kena marah ortunya,Bocah itu maem pake tgn kiri,Bocah itu maem dgn tgn kanan,cause,224,0
+"Mau lebaran, langit keliatan ga kosong sama kedengeran bunyi berisik",Bocah-bocah bnyk yg maen petasan di lapangan,Polusi suara dan udara bnyk bgt dikeluarin pabrik ,cause,225,0
+Ibu itu dilarang nawarin harga,Ibu itu blanja di supermarket,Ibu itu blanja di pasar,cause,226,0
+Emak-emak itu punggungnya merah,Emak-emak itu dikerokin anaknya,Emak-emak itu ditaburin bedak ama anaknya,cause,227,0
+Koechenk itu terkenal ganas bgt,Kucing itu warnanya item,Kucing itu warnanya oyen,cause,228,1
+Warga kmpng jkt saling bantu bersihin got kampung mrk,Wrgnya ngeaplikasiin smngt gotong royong,Wrgnya ngaplikasiin smgnt bhinneka tunggal ika,cause,229,0
+Siswa2 baru SMA sdg dimarain kk kelasnya,lagi ada upacara bendera,lagi ada mos,cause,230,1
+mas2 itu make batik,orang muda itu lagi di acara nikahan,Orang muda itu lgi di diskotik,cause,231,0
+Di skolah tdi gw dlm bahaya,Ada tembak2an masal di skolah gw,Gw ampir ketabrak mobil pas ujian praktek penjas,cause,232,1
+Ada lomba mkn krupuk,hri ini hri proklamasi kemerdekaan indonesia,hri ini hari pancasila,cause,233,0
+Bocah2 itu ngegambar kotak2 pake kapur di jln,Bocah2 itu mo maen bekel,Bocah2 itu mo maen engklek,cause,234,1
+Org itu ditangkep polisi,Org itu bawa pistol,Org itu bawa piso,cause,235,0
+Ad bndera wrn kuning polosan deket rumah tetangga,Ada tetangga yg koit,jda tetangga yg ngingetin nyetir pelan2,cause,236,0
+Orang itu kebanyakan minum aer,Orang itu ngebuang air seni,Orang itu ngebuang air hiasan,cause,237,0
+Orang itu ke mekdi,Dia pingin mkn ayam pke sagu,Die pingin mkn ayam pake nasi,cause,238,1
+Org itu pake kopiah,Org itu jadi penghulu orng nikah,Oranag itu bawain acara quiz,cause,239,0
+Ada org make sepatu pas mo masuk ke rmh mertua,Org itu make spatu sbelum masuk krumah,Org itu ngelepas spatunya sblom msk krumah,effect,240,1
+Kita dikasih hadiah,Kta ambil dgn left hand,Kita ambil dgn right hand,effect,241,1
+Pnumpang angkot pingin turun dijalan,"Pnumpangnya triak ""kanan""","Penumpangnya triak ""kiri""",effect,242,1
+Org itu pingin nyebrang jln raya,Org itu make tgn kanan buat tanda nyebrang,Org itu mke bendera merah buat tanda nyebrang,effect,243,0
+yg buat gdung 20 lante itu nganut fengshui,Gedung itu g punya khas Nusantara,Gdung itu ga punya lante 4,effect,244,1
+Pmuda Indo itu selesai boker,Pmuda itu bersiin pantatnya pake tisu,Pmuda itu bersiin pantatnya pake aer,effect,245,1
+Anak2 kmpung ngeliat bule eropa paruh baya,"Anak2 kmpung itu manggil org itu ""mas""","Anak2 kmpng itu mnggil orang itu ""mister""",effect,246,1
+Pas bulan romadon ada tmbhn upah dikasi ke karyawan,Prusahaan wjb ngasi uang makan kke karyawan yg puasa,Prusahaan wajib ngasi THR ke karyawan,effect,247,1
+klmpk wisatawan ke Bunaken,Skelompok wisatawan itu naek gunung,Skelompok wisatawan itu nyelem ke laut,effect,248,1
+Satu kluarga yg ga mampu pingin nyekolahin anaknya,Anaknya disekolain ke skolah swasta,Anaknya disekolain ke skolah negeri,effect,249,1
+40 hari stelah wafatnya 1 orang muslim di suatu prumahaan,Disitu diadain dansa2an,Disitu diadain tahlilan,effect,250,1
+1 karyawan prusahaan brangkat jam 7 pagi ke Jakpus,Karyawannya kena macet,Karyawannya ga kena macet,effect,251,0
+Orang itu namanya Haryo,Org itu dri Padang,Org itu dri Jawa,effect,252,1
+Hri ini tgl 31 Oktober,Sekitar kota gak dihiasin alat2 haloween,Seisi kota dihasin alat properti halowin,effect,253,0
+Guru msuk di awal plajaran siswa SD,Ktua kelas ngasih aba2 salam,Ktua kelas ngasih aba2 blajar,effect,254,0
+Org itu parkir motor depan Indomaret,Org itu dimintain byr duit ke yg jaga parkir,Org itu byr duit parkir ke kasir Indomaret,effect,255,0
+babe syg binatang,Babe pny perkutut dirmh,Babe pny wayang di rmh,effect,256,0
+Bocah itu naro tangan ke pala ortunya,Bocah itu naro tangan ke punggung ortunya,Bocah itu dimarain ama ortunya,effect,257,1
+org itu mkn rendang,Org itu ke restoran sderhana,Org itu ke warteg,effect,258,0
+bocah itu pengecut pas ngadepin masalah,bocah itu dijulukin ayam,bocah itu dijulukin kucing,effect,259,0
+murid2 pgi ke Taman Banteng,mereka mo wisata kuliner,mereka mau wisata sjarah,cause,260,1
+Menkominfo kena korupsi BTS,Menkominfo dipriksa KPK karena ngadain konser,Menkominfo dipriksa KPK gara2 ngadain pembangunan,cause,261,1
+Ada macet di jln Pantura di Jawa,today hri mudik lbaran,today hri kerja,cause,262,0
+Siswa SMA kena hukum sm guru skolah,Siswa itu bru dateng ke sekolah jam 6,Siswa itu bru dtg ke skolah jam 8,cause,263,1
+Orang itu nonton video cak lontong sih,Org itu mau cari tau ttg ilmu mkanan,Org itu bth hiburan lawakan,cause,264,1
+Keluarga itu langganan PAM,Kluarga itu butuh asupan aer bersih,kluarga itu btuh listrik,cause,265,0
+Bnyk ondel2 di suatu lpngn,Lapangan itu dipake buat festival ultah jkt,Lapangan itu dipake buat festival ultah sby,cause,266,0
+org itu pnya alergi ketan,org itu ngindarin mkn mmk,org itu ngindarin mkn memek,cause,267,0
+kndaraan itu ngelambatin kcepatannya,ada polisi lalu lintas di dpn mata,ada polisi tdr di dpn mata,cause,268,1
+mhs itu pke jaket kuning,mhs nya mhs UI coy,mhs nya ITB coy,cause,269,0
+tuh dosen kolestrol naek,dosen itu bru aja mkn gado2,dosennya baru aja mkn rendang,cause,270,1
+Org itu dikatain tinggal diplanet luar,Org itu tinggal di Kemang,Org itu tinggal di Bekasi,cause,271,1
+org itu milih Halim dibanding Soekarno Hatta,Org itu tggal di tangerang,Org itu tnggal di Jaktim,cause,272,1
+org itu minum Tolak Angin,orgnya ga sehat,org itu pingin strong di daerah angin2an,cause,273,0
+Ada kndaraan muterin audio digoreng dadakan,yg jualan nandain klo dia jualan tahu bulat,yg jualan nandain klo dia jualan fast food,cause,274,0
+Org itu butuh KBBI,orgnya pingin ngecek ejaan tulisan bhs indonya,org itu pingin cek pengetahuan budaya indo,cause,275,0
+Buah itu diselimutin semut item,Buah rambutan dibiarin terbuka di meja mkn,Buah pisang itu dibiarin kebuka di meja mkn,cause,276,0
+org itu dagang scr online di indo,org itu dagang di amajon,org itu dagang di tokped,cause,277,1
+1 org kontestan masterchef dimarain,Jurinya chef renata,Jurinya chef juna,cause,278,1
+Langit jkt gelap bgt,skr musim dingin,Jkt ada polusi,cause,279,1
+Mhs itu pingin hemat2,Mhs itu mkn kfc tiap hari,Mhs itu mkn indomi tiap hari,effect,280,1
+orang2 tua mo ngerayain keberhasilan promotenya dgn mknn nuansa lokal,org tua itu ngerayain dgn mesen pizza,org tua itu ngerayain dgn mesen nasi tumpeng,effect,281,1
+1 org muda itu ke pasar senen di jkt,org muda itu naek krl commuter line,org muda itu naek krl jrk jauh,effect,282,0
+org itu msk angin,orgnya minum antangin,orgnya minum fres ti,effect,283,0
+pmuda itu pggnya pegel,pmuda itu pke plester di pggnya,pmuda itu pake koyo di pnggnya,effect,284,1
+1 org dirut di BUMN ngebuat post di grup WA,karyawannya respon pake emot '❤️',karyawannya respon pake emot '👍',effect,285,1
+org jkt itu beli tisu rol,tisu rollnya dipake buat cebok wkwkwk,tisu rolnya dipake buat lap2an kwkwwk,effect,286,1
+klompok suporter itu dukung persija,suporternya pake baju biru,suporternya pake baju oren,effect,287,1
+wrg +62 kerja di indo,org itu daftar npwp,org itu dftr wamil,effect,288,0
+anak itu pingin liat jnis2 binatang,org itu prgi ke TMII,org itu prgi ke ragunan,effect,289,1
+Pmuda itu sk lgu dangdut,Pmuda itu suka dengerin lagu Dewi Persik,Pemuda itu ska dengerin lagu shela on 7,effect,290,0
+Org itu ga boleh makan dingin,org itu ga boleh beli mixue,org itu ga boleh bli nasi uduk,effect,291,0
+"Di hari lebaran, cowo itu  pergi ke puncak di Bogor",org itu kejebak macet,jlanannya lancar,effect,292,0
+cewe itu ke gramed,cewe itu pingin bli buku,Cewe itu mo konsul ttg medsos,effect,293,0
+bpk2 ngebuat grup komunitas buat chat2an,bpk2nya pake LINE,bpk2nya pake WA,effect,294,1
+org itu perlu meluk sesuatu pas tidur,Org itu bli koechenk,Org itu bli guling,effect,295,1
+org itu mentingin keselamatan diri,org itu naik transjakarta,org itu naek kopaja,effect,296,0
+food itu dri jateng,foodnya mercon,foodnya ga mercon,effect,297,1
+org itu mo pegi,org itu mesen pake gojek,org itu mesen pake uber,effect,298,0
+piringnya kotor,org itu make sabun nuvo buat nyuci,orgnya make sabun sunlight buat nyuci,effect,299,1
+anak itu mkn nasi padang,anak itu mkn pke sumpit,anak itu mkn pke tangan,cause,300,1
+pmerintah bagi2 sembago LPG ke org kismin,org kismin itu butuh buat mandiin anak,org kismin itu butuh buat masak,cause,301,1
+Seorang ojol pingin nurunin pnumpang,pnumpangnya diturunin di tempat pngkalan ojek,penumpangnya diturunin di halte,cause,302,1
+Org muslim indo ngerasa aman mkn suatu makanan di restoran,Restorannya ada logo MUI,penjaga restorannya berhijab,cause,303,0
+"org2 itu tb2 ngomong ""mari pak""",org itu ngelewatin seorang bapak,org itu ngasih ptunjuk jalan ke bpknya,cause,304,0
+ibu itu milih ga belanja bhn baku di indomaret,ibu itu ga bisa nego harga,ibu itu ga dapet diskon,cause,305,0
+org itu pgi ke pijet2 refleksi,org itu sakit flu,org itu pegel2,cause,306,1
+org jkt pke baju warna oren dtg ke stadium gelora bung karno,Persija lagi tanding coy,Persebaya lagi tanding coy,cause,307,0
+transjkt biayanya kok cma 1 rupiah,hari ini hri kemerdekaan indo,hari ini ultah jkt,cause,308,1
+pmn ingin lebaran dan milih pesawat super jet,paman ingin hemat2,paman ingin nyaman2,cause,309,0
+org muslim itu pingin minum anget2,Orang itu minum bir bintang,org muslim itu minumnya wedang jahe,effect,310,1
+anak itu diomelin ibunya,anak itu bli minum panas mulu,anak itu bli minum es mulu,effect,311,1
+bpk Jokowi dateng ke pertemuan,tentara bungkuk badan ke dia,tentara hormat ke dia,effect,312,1
+hri ini lebaran idul adha,bbrp org jkt solat di santa maria,org2 jkt bberapa solat di istiqlal,effect,313,1
+emak itu pingin ngerayain kelulusan dgn padang2an,Emak itu ngerayain di restoran sederhana,Emak itu ngerayain di warteg,effect,314,0
+skr lagi jam istirahat kantor,org2 ke waterbom,org2 ke warteg,effect,315,1
+anak itu ngisi acara festial seni budaya bandung,anak itu meranin ondel2,anak itu ngisinya pake maen angklung,effect,316,1
+PNS itu lagi rehat,pegawainya maen lompat tali dong,pegawainya maen zuma dong,effect,317,1
+ayam itu kukuruyuk,pasar tradisional buka jm dgn,indomaret buka jam dgn,effect,318,0
+org itu bth kehangatan di bdn,org itu ngelumurin bdgnnya dgn lifebouy,org itu ngelumurin bdgnnya dgn vix,effect,319,1
+bos prusahaan itu kebakaran jenggot,perusahaannya naik daon,perusahaannya pailit,cause,320,1
+anak itu apel pagi,apel pagi buat budaya sarapan bersama dgn apel,apel pagi buat ngehormatin kemerdekaan indo,cause,321,1
+brita itu digoreng di medsos,perusahaan AI di indo ngerekrut org s3 dri luar negeri,prusahaan AI ternama di indo mecat2 masal,cause,322,1
+org itu  msih ijo di dunia karir ya,org itu badannya warna ijo,org itu baru lulus kuliah,cause,323,1
+prof itu viral di indo,prof itu kena skandal cerai,prof itu publish paper ke konferensi internasional,cause,324,0
+org itu keras kpala,org itu susah diajak krjasama,org itu bsa berantem pake pala,effect,325,0
+anak itu aneh bgt gerak-geriknya,anak itu jadi kuda item tetangga,anak itu jadi buah bibir tetangga,effect,326,1
+kita ber2 milih buat empat mata,mereka bli kacamata,mrk ke tempat yg enak buat diskusi,effect,327,1
+kryawan itu pingin dapet promotion,karwannya itu carmuk ke pemipinnya,karyawannya rendah hati ke pemimpinnya,effect,328,0
+pria itu idung belang,pria itu disukain cewe2,pria itu dibenci cewe2,effect,329,1
+Orang-orang pada ogah membeli rumah itu,Rumahnya dikenal sbg rumah tusuk sate,Rumah ngadep utara,cause,330,0
+mereka janji ketemuan sebelom magrib,ketemuan jam 7 malam,ketemuan jam 5 sore,cause,331,1
+Dia mau bikin lontong,Dia punya daun kelapa muda lebih,Dia punya daun pisang lebih,cause,332,1
+Di depan rumahnya ada bedera kuning,Ada keluarganya yg ulang tahun,Ada keluarganya yg meninggal,cause,333,1
+"Di gedung itu, ada janur kuning yg melengkung",Lagi ada nikahan di gedung itu,Lagi ada yg ulang tahun di gedung itu,cause,334,0
+Dia nyeker di pasar,Ia abis ngebeli ceker d pasar,Sandalnya tuh rusak,cause,335,1
+"Kemaren malam, ia baru aja jaga lilin",ia orang yg taat beribadah,ia percaya dgn ilmu hitam,cause,336,1
+Tuh orang namanya Hutabarat,Ia tuh orang Batak,Ia tuh orang Minang,cause,337,0
+Wanita yg hijaban itu baru aj meninggal,Jasad wanita itu bakal dimakamkan,Jasad wanita itu bakal dibakar,effect,338,0
+Cowok itu dikenal sebagai buaya darat,Cowok itu setia bgtt,Cowok itu suka maen cewek,cause,339,1
+Dia dikenal sbg orang yg ngaret,Dia suka mainan karet,Dia suka dateng telat,cause,340,1
+Cewek itu lg dateng bulan,Cewek itu plg istirahat di rmh,Cewek itu prgi berdoa ke pura,cause,341,0
+Ia make masker,Ia mau naek motor di kota,Ia mau keliatan gaul,cause,342,0
+Ia ngusahain jadi orang yg gk serakah,Ia ngamalin moral story-nya Sang Kuriang,Ia ngamalin moral story-nya bawang merah bawang putih,cause,343,1
+Namanya keluar di kocokan arisan,Ia bakal prgi makan mewah tuh,"ihh, ia bakal awasi pegawai pajek",effect,344,0
+Banyak orang mulai flu skrg,Banyak orang jemuran di pantai siang hari,Skrg masuk musim pancaroba,cause,345,1
+Mereka ingin main cangkulan,Mrk pergi ke sawah,Mereka ngambil kartu,effect,346,1
+Petani mulai nanem padi,Skrg masuk musim hujan,Skrg masuk musim kemarau,cause,347,0
+Ia ikutan remedial,Ia mau ngerjain tugas kelompok,Ia gak lulus ujian,cause,348,1
+Polisi nutup jalan di kawasan tsb,Ada aksi unjuk rasa di kawasan tsb,Kawasan tsb lagi hujan,cause,349,0
+Mereka nyium bau melati di koridor sekolah sore itu,Mereka fokus belajar sampe malam,Mereka buru2 pulang karena takut,effect,350,1
+Dia berasa masuk angin,Dia ngebuka jendela utk ngebenerin sirkulasi udara,Dia minta tolong buat kerokan,effect,351,1
+Lembaga pemerintah dipenuhi dgn tikus berdasi,Masyarakat ngeluhin kinerja pemerintah,Masyarakat gemar ngirim pestisida kpd pemerintah,effect,352,0
+Cowok2 keluar gedung pd Jumat siang,Mereka pergi ke mesjid,Mereka plg ke rumah,effect,353,0
+Kristian mo ibadah pd hari minggu nih,Kristian go to mushola,Kristian go to gereja,effect,354,1
+Ia gak mau jadi Malin Kundang,Ia berbakti pd orang tua,Ia belajar dgn giat,effect,355,0
+BMKG ngumumin Merapi siaga 4,Masyarakat dibolehin balik ke rumah,Masyarakat cepat2 ngungsi,effect,356,1
+Tudei bakal ada apel pagi,Mereka bawa keranjang buah,Mereka pake dasi dan topi,effect,357,1
+Rumah makan itu nyajiin mknan dgn air koborkan,Mereka marah2 ke pemilik rumah makan,Mereka makan dgn tangan,effect,358,1
+Hari ini tgl tujuh belas Agustus,Murid2 pergi ke sekolah utk ikut upacara,Murid2 pergi ke sekolah utk belajar,effect,359,0
+Pasangan itu baru aj ngelahirin seorang bayik,Si ayah ngubur ari-ari,Si ibu berendem pake kembang tujuh rupa,effect,360,0
+Ia pergi mudik ke kampong halaman,Ia ketemu kepala desa,Ia ketemu sanak saudaranya,effect,361,1
+Ia plg dgn penuh keringat,Ia buru2 mandi,Ia buru2 nyuci baju,effect,362,0
+Banyak nilai merah di rapotnya,Orangtuanya nyuruh ia belajar lebih giat,Orangtuanya ngajak ia jalan2 liburan,effect,363,0
+Mereka akan ngedaftarin pernikahannya,Mrka pergi ke DPR,Mrka pergi ke KUA,effect,364,1
+Ia jalan2 liburan dong,Skrg udah summer loh,Tudei lagi tgl merah,cause,365,1
+Ia ngeliat polisi tidur,Ia melanin laju kendaraan,Ia ngebangunin polisi,effect,366,0
+Kepala desa ngebuat jadwal siskamling,Mereka nyelenggarain lomba di siang hari,Mereka ngejaga keamanan di malam hari,effect,367,1
+Adik gak mau nasinya nangis,Adik gak makan nasi,Adik ngabisin makanannya,effect,368,1
+Mereka ngerayain lebaran,Mereka shalat dan ketemuan sama keluarga,Mereka jalan2 ke luar negeri,effect,369,0
+Ibu nyalain keran dan selang,Ibu mau nyuci pakaian,Ibu bakal nyirem taneman,cause,370,1
+Mereka ngerayain tahun baru dua jam lbh cepet dari gw,Mereka tinggal di Jakarta dan gw tinggal di Bali,Mereka tinggal di Papua dan gw tinggal di Medan,cause,371,1
+Tudei ia ke sekolah pake seragam warna coklat,Tudei itu Hari Pancasila,Tudei bakal ada pramuka,cause,372,1
+Dia make seragam merah putih,Dia bocah SD,Dia anggota TNI,cause,373,0
+Ia mesen taxi utk pergi ke Soekarno-Hatta,Ia bakal naek pesawat,Ia mau ketemu presiden,cause,374,0
+Ia ngeluarin uang kertas warna pink,Ia mesen mknan senilai seratus ribu rupiah,Ia beli gorengan harganya seribu rupiah,cause,375,0
+Bokap beli bidet baru,Bokap mau renovasi toilet,Bokap mau renovasi dapur,cause,376,0
+Mrka beli kelereng,Mrka mo main gundu,Mrka mo maen congklak,cause,377,0
+Bocil pada beli karet gelang,Bocil mau maen lompat tali,Bocil mau maen gasing,cause,378,0
+Ia bakal ngebuat sate bakar loh,Ia manasin oven,Ia ngambil arang dan panggangan,cause,379,1
+Ia berfoto di dpn monumen hiu dan buaya,Ia jalan2 ke Surabaya,Ia jalan2 ke Manado,cause,380,0
+Dia ingin mkn manis,Dia nyari klepon,Dia nyari rempeyek,cause,382,0
+Dia mau mkn babi panggang,Dia ke resto lapo batak,Dia pergi ke RM Padang,cause,383,0
+Banyak mobil dgn plat B di jalanan Bogor,Org2 Bogor lagi jalan2 di akhir pekan,Org2 Jakarta liburan ke Bogor,cause,384,1
+Ia pergi pake kendaraan beroda tiga,Ia ngojek,Ia naek bajay,cause,385,1
+Ia beli tempe,Ia nyari protein mureh,Ia nyari karbohidrat mure,cause,386,0
+Ia mesen gado2,Ia suka bgt daging sapi,Ia doyan sayuran,cause,387,1
+Ia prgi ke Semeru,Ia mau renang di laut,Ia mau ngedaki gunung,cause,388,1
+Ia ngebeli sekoteng,Siang ini cuaca panas banget,Malam ini udara lagi dingin2nya,cause,389,1
+Doi ngidolain BJ Habibi bgt,Doi nyari beasiswa ke German,Doi nyari kerja ke Singapur,effect,390,0
+Langit2 rumah debuan banget,Ia ngambil kemoceng,Ia ngambil sapu lidi,effect,391,0
+Ayah punya kakaktua,Ayah ngasih mkn burung setiap pagi,Ayah ngebawa kakak ketemu doktor,effect,392,0
+Bank itu ngasih bunga yg tinggi,Ia ngebeli vas baru,Uang di tabungannya nambah,effect,393,1
+"Tiap akhir pekan, kakak bekerja sbg tukang ojek",Kakak ngedorong gerobak utk menjual makanan,Kaka ngeluarin motornya dr garasi,effect,394,1
+Ia pengen jadi kayak Susi Susanti,Ia berlatih dgn giat pake raket dan kok,Ia slalu ke kolam renang tiap hari,effect,395,0
+Ia msk ke gang buntu,Ia terus jalan sampe ketemu jalan besar,Ia putar arah utk keluar,effect,396,1
+Ia mau ndaki Gng Bromo,Ia prgi ke Kota Lampung,Ia prgi ke Kota Surabaya,effect,397,1
+Gue mesen menu internet di warkop,Gue minum kopi,Gue makan mie,effect,398,1
+Kelakuan orang itu kayak anjing,Orang2 suka dengannya,Orang2 gak suka dengannya,effect,399,1
+"Pagi ini, ia pake baju putih abu-abu",Ia prgi ke mall,Ia prgi ke SMA,effect,400,1
+Ia mau bikin ketupat,Ia beli daun pisang & kentang,Ia beli daun kelapa & beras,effect,401,1
+Mas2 pake obat nyamuk,Mas2 pergi ke sungei siang bolong,Mas2 pergi ke kebon malem2,cause,402,1
+Ia mau ngeliat terumbu karang,Ia pergi renang di pantai,Ia belanja di supermarket,effect,403,0
+Ia kecopetan,Ia dapet bunga,Barangnya ilang,effect,404,1
+Ia ingin ngeliat padi,Ia pergi ke sawah,Ia pergi ke kebun,effect,405,0
+Ia mau ngeliat kuda,Ia naik becak,Ia naik delman,effect,406,1
+Doi pengen renang di laut nih,Doi pergi ke Kelimutu lah,Doi pergi ke Bunaken lah,effect,407,1
+Mereka bakal masak rawon,Mereka ngebeli biji keluak,Mereka nebeli kcg kedele,effect,408,0
+Mereka ingin ngeliat api biru,Mereka jalan2 ke Ijen,Mereka jalan2 ke Bromo,effect,409,0
+Tsunami 2004 ngancurin rumahnya,"Thn 2004, ia tinggal di Jkt","Taun 2004, ia tinggal di Aceh",cause,410,1
+Kelingkingnya literally berlumuran tinta,Ia baru selese nyoblos pemilu,Ia baru selese nabung uang di bank,cause,411,0
+Pria itu gak percaya mitos Pantai Selatan,Pria itu ngebawa tas putih,Pria itu pake baju hijau,cause,412,1
+Ia berangkat kerja pake seragam coklat,Ia adlh seorang karyawan swasta,Ia adlh seorang PNS,cause,413,1
+Emak2 lagi pada masak ketupat & opor ayam,Bentar lagi Idul Fitri,Bentar lagi tahun baru,cause,414,0
+Mereka nyanyi Indonesia Raya,Mereka ikutan upacara bendera,Mereka jalan2 ke museum,cause,415,0
+Mereka masuk ke jln tikus,Jlnan hari ini macet banget,Mereka ingin ngebasmi tikus,cause,416,0
+Mereka masang bendera merah putih di rumah,Skrg bulan Januari,Skrg bulan Agustus,cause,417,1
+Cewek itu bawa mukena,Cewek itu mau prgi shalat,Cewek itu lagi ulang tahun,cause,418,0
+Mereka prgi ke Gunung Tangkuban Perahu,Mereka mau ngunjungin lokasi Sangkuriang,Mereka mau ngunjungi lokasi Timun Mas,cause,419,0
+Papi mau sarapan pagi2,Papi jln beli taican,Papi nyari nasi uduk,effect,420,1
+Pelayan naruh mangkuk kecil berisi air dgn potongan limau,ia nyuci tangan dgn air itu dong,Airnya langsung diminum lah,effect,421,0
+Mereka mau jalan2 ke Kota Tua siang ini,Mereka pake topi,Mereka pake mantel,effect,422,0
+Mereka mau belajar musik tradisional Indonesia,Mereka belajar maen gamelan,Mereka belajar maen biola,effect,423,0
+Cewek Jawa itu mau nikah,Cewek itu latihan piano,Cewek itu beli kebaya,effect,424,1
+Adzan Magrib mulai kedengeran ,Sekarang sekitar pkl delapan malam,Sekarang sekitar pkl enam sore,effect,425,1
+"Dr Jakarta, ia mau ke Surabaya dgn cepat",Ia beli tiket kereta,Ia beli tiket pesawat,effect,426,1
+Ya beli tiket bus lah,Dr Bekasi mau ke Semarang dgn budget sobat misqueen,Dr Palembang akan ke Pontianak as fast as possible,cause,427,0
+Jalanan becek gara2 hujan,Ia pergi pake sandal jepit,Ia pergi pake sepatu boot,effect,428,0
+Ia nyari oleh2 kain Indonesia,Ia beli kimono,Ia beli batik,effect,429,1
+ia buru2 buang air besar,perutnya mules,rumahnya kebanjiran,cause,430,0
+Ia pergi ke salon utk sulam alis,Ia mau belajar nyulam,ia mau keliatan lebih cantik,cause,431,1
+Kakak kesal krn adik terus2an ngebeo,Adik bawa burung beo,Adik ngulang kata2 kakak,cause,432,1
+Ia dibawa ke kantor polisi karna nyuri TV,Ia tertangkap basah ngebawa TV,Ia ngebawa TV dgn tangan merah,cause,433,0
+ia punya banyak temen,ia dikenal sbg org yg rendah hati,ia dikenal sbg org yg tinggi hati,cause,434,0
+Ia nyelesaiin konflik tsb dgn kepala dingin,Ia ngeringin kepalanya yg basah,Banyak org ngapresiasi kesabaranya,effect,435,1
+Ia ngeliat pedagang kaki lima di pinggir jalan,Ia nelpon polisi untuk nangkep pedagang itu,Ia ngehampirin pedagang dan ngebeli makanan,effect,436,1
+Hati2! Rumahnya lagi ditelan si jago merah,Ia buru2 nelpon pemadam kebakaran,Ia buru2 manggil dukun pengusir setan,effect,437,0
+kasus perceraian tsb dibicarakan di meja ijo,pada ngebeli meja baru,pada ngebayar pengacara,effect,438,1
+cewek itu pulang kampung dgn berbadan dua,banyak org minta bantuannya karna jago kerja cepat ,tetangganya pasti pada ngegosipin cewek itu,effect,439,1
+Pulang-pulang sekolah anak itu diomelin sm bokapnya.,Dia gak cium jidat bokap sebelum ke sekolah.,Dia gak salim sama bokap sebelum ke sekolah.,cause,440,1
+Bro yg itu msk RS habis kakinya moncrot keiris piso.,Dia gak ati2 pas ikutan tarkam.,Dia gak ati2 pas main sabung ayam.,cause,441,1
+Pagi ni tadi ada bis antar kota lwt depan rumah gw.,Bocah2 ngrubungin tuh bis minta numpang gratis keluar kota.,"Bocah2 ngrubungin tuh bis minta ""bang telolet bang!""",effect,442,1
+Tetangga gue sblh ndadak tajir cui.,Lha temennya pada ngira dia miara babi ngepet dong.,Lha temennya pada ngira dia miara ayam kampus dong.,effect,443,0
+Ntu cowok dah di anggep kek preman di kampung sini.,Dia suka nagihin duit keamanan.,Dia suka nagihin duit kebersihan.,cause,444,0
+Tu orang seneng banget dah beli kretek.,Dia keseleo.,Dia kena di parunya.,effect,445,1
+Dia dikatain gendruwo di skolah.,Doi bongsor.,Dia suka ngusilin temen2nya.,cause,446,0
+Udh lama nyai kerja jd tukang urut.,Nyaik jadinya pinter banget mijet.,Nyaik jadinya pinter banget itung2an.,effect,447,0
+Tante kynya lagi kerempongan gendongin si debay.,Bibir si tante lagi jontor sih.,Selendang si tante robek sih.,cause,448,1
+Giginya engkong patah pas mkn nasi.,Di karung brsnya taunya ada krikil nyelip.,Di karung berasnya taunya ada udang nyelip.,cause,449,0
+"""Males banget ah ngangkot"" kata tu cewek.",Angkot mah ngetem mulu biasanya.,Angkot mah ngebut mulu biasanya.,cause,450,0
+Pak haji kolestrolan parah.,Dia kalap pas idul adha.,Dia kalap pas taun baru islam.,cause,451,0
+Ni hari kite pade ngerayain lebaran haji.,Kulkasnye jadi penuh ama daging.,Kulkasnye jadi penuh ama tupat.,effect,452,0
+Kakinya diperbanin gegara lukak kebakar.,Dia gak sngaja kena knalpot.,Dia gak sengaja jatuh ke kompor.,cause,453,0
+Adik nangis2 gegara bonyok sidak trus hapenya disita.,Ketauan banyak koleksi 3gpnya.,Ketauan banyak koleksi mp3 bajakannya.,cause,454,0
+Di kelas dia plg pendek.,Pas upacara dia plg dpn.,Pas upacara dia plg blkng.,effect,455,0
+Bokap kena jebakan betmen pas nyetir.,Bokap boncos gegara mesti bayar duit pelicin.,Bokap boncos gegara mesti bayar duit buat ngobat.,effect,456,0
+"Abis lahiran, emak itu bingung gara2 dia rumahnye di rusun.",Si emak takut anaknye keder sama yg tinggi2.,Si emak pengen ngubur ari2.,cause,457,1
+Gue sama bini kejebak macet.,"Bini gue ngeluh ""pgn mesin waktu ajaa rasanya""","Bini gue ngeluh ""pgn pintu ke mana saja ajaa rasanya""",effect,458,1
+Waiternya bawain kita mangkok yg ada air sama jeruknya.,Gue minum tu jeruk nipis gegara gue keausan.,Gw cuci tangan pake tu kobokan.,effect,459,1
+Tante lagi BU cepet.,Tante bikin rekening bank.,Tante bikin akun pinjol.,effect,460,1
+"Ada emak2 motoran, gak pakek helm, gak nyalain sen, e yailah nabrak mobil.",Emak2nya malah ngomel2in supir mobilnya.,Emak2nya langsung minta maaf sama si supir mobil.,effect,461,0
+Dia ikutan lomba kultum.,Dia ngikut seleksi ketua rohis.,Dia ngikut seleksi masuk maba.,cause,462,0
+Musim ujan gini kampung gw lagi fogging.,Pemerintah pengen ngebasmi DBD.,Pemerintah pengen ngebasmi malaria.,cause,463,0
+Ada dukun ngira ni RS digentayangin sama suster ngesot.,Dari penglihatannya ada ngebekas darah di pintu ruang operasi.,Dari penglihatannya ada ngebekas darah yg keseret2 di lantai.,cause,464,1
+Papah galau mau ke tempat cuci mobil sekarang apa enggak.,"Langitnya lagi terang, panas banget.",Langitnya lagi mendung gelap.,cause,465,1
+Abang ketangkep basah pas ujian.,Dia ketauan lagi nyalo.,Dia ketauan lagi ngejoki.,cause,466,1
+Kaka lagi ikutan kompetisi gerak jalan.,Kaka pake seragam sekolah.,Kaka pake baju olah raga.,effect,467,0
+Ibuk takut sakit pas lahiran.,Ibuk milih ngelahirin normal.,Ibuk milih buat sesar aja.,effect,468,1
+Ada satpam kelaperan pas lagi jaga.,Dia ngewarteg beli salmon.,Dia ngewarteg beli ikan kembung.,effect,469,1
+Ada kang jamu digerebek sm polisi.,Si tukang bandar jamu 18++.,Si tukang bandar miras oplosan.,cause,470,1
+Disini tarkam dilarang ma polisi.,Polisi lagi nyelidikin korupsi di pengadaan kompetisinya.,Tarkam ujung2nya tawuran mulu.,cause,471,1
+Dia mahasiswa yang kuliah pulang kuliah pulang mulu,Nilainye jelek2 semue,Dia gak punya temen di luar kuliahannye,effect,472,1
+Ibu2 ndeso ntu ngamuk2 habis balik dari resto steak mahal ini.,Dia mesen steak well-done tapi alot banget rasanya.,Dia mesen steak rare tapi gak enak rasanya.,cause,473,0
+Ciciku yg umur 25 taun itu lagi ke kondangan sepupunya.,Ditanya2inlah dia gandengannya mana.,Ditanya2lah dia agamanya apa.,effect,474,0
+Dia ikutan rohis kampus.,Di kampus dia pake tasbih.,Di kampus dia pake celana cingkrang.,effect,475,1
+Dia anaknye rajin ke gereja.,Dia pinter ngaji.,Dia pinter nyanyi.,effect,476,1
+Emoneynye abis.,Dia kejebak di hotel.,Dia kejebak di parkiran.,effect,477,1
+Semua pade tau almarhumah ini pejuang agama yang baek.,Warga pade dateng takbiran.,Warga pade dateng yasinan.,effect,478,1
+Adik gue sama temen2nya rame pake baju adat hari ini di sekolah.,Mereka lagi tujubelasan.,Mereka lagi kartinian.,cause,479,1
+Lagi mati listrik.,PDAM nyetop servis.,PLN lagi pemadaman.,cause,480,1
+Abang lagi ke bengkel Yamaha.,Piano doi rusak.,Motor doi rusak.,cause,481,1
+Tengah malem gini gue kelaperan dah.,Gue keluar nyari nasi uduk warteg.,Gue keluar nyari nasi kucing angkringan.,effect,482,1
+Doi dikatain budak kapitalis.,Dia kerjanya di SCBD.,Dia kerja jadi ART.,cause,483,0
+Kakak demen banget olahraga murmer di Senayan,Ni hari dia main bola di sana.,Ni hari dia ngejogging di sana.,effect,484,1
+Adik disetrap di sekolah.,Dia ketauan banyak nyimpenin poto Kota Bandung.,Dia ketauan banyak nyimpenin poto Chika Bandung.,cause,485,1
+Sate kambingnye yang gue beli tadi gk ada rasanya.,Bumbu kecapnye tumpe semue.,Bumbu saus BBQ-nye tumpe semue.,cause,486,0
+Dia sering banget dapet nilai jelek di kelas.,"Ibunya ngamuk ""Lu mau jadi kek nobita?""","Ibunya ngamuk ""Lu ma jadi kek Conan?""",effect,487,0
+Adik ke dokter gara2 giginya sakit.,Dia jajan Burger King mulu.,Dia jajan J.Co mulu.,cause,488,1
+Pak RT dianggep kaya.,Dia bawanya Avanza.,Dia bawanya Fortuner.,cause,489,1
+Pak RW tuh hipster.,Dia milih ngebeli BMW.,Dia milih ngebeli Volkswagen.,effect,490,1
+Bsk adik mau SNMPTN.,Adik grogi.,Adik seneng.,effect,491,0
+Ada mas2 lagi jualan Kompas di lampu merah.,Ada supir2 yang beli karena gak pengen kesasar.,Ada supir2 yang ngebeli karena pgn ngikutin berita.,effect,492,1
+Ibu lagi nyemprotin rumah buat ngebasmi nyamuk.,Rumah jadinya bau baigon.,Rumah jadinya bau autan.,effect,493,0
+Tu pegawai gak punya BPJS.,Dia sakit jadinye.,Kantornya disidak sama pemerintah.,effect,494,1
+COVID bikin banyak PNS WFH.,Mereka pada pake zoom buat meeting.,Mereka pada pake teams buat meeting.,effect,495,0
+Di rumah om banyak dipasangin gambar binatang moncong putih.,Si om orang Demokrat. ,Si om orang PDIP.,cause,496,1
+Di jalan itu lagi diberlakuin contra flow.,Pemerintah pengen supaya Busway lancar.,Pemerintah pengen supaya gak macet.,cause,497,1
+Tu anak gak lulus ujian penjaskes.,Larinya lemot.,Jawabannya salah semua.,cause,498,0
+Kakak males ngurusin STNK.,Kakak bayar calo.,Kakak bayar joki.,effect,499,0
+Majapahit tuh kerajaan paling gede sepanjang sejarah Indonesia.,Raja Gajah Mada dengan Sumpah Palapanya sukses nguasain nusantara.,Raja Hayam Wuruk sukses ngegedein kerajaannya ke pelosok nusantara.,cause,500,1
+Tu anak sering banget makan Indomie.,Emaknya makin ngebeliin Indomie bnyk2 biar si anak bisa mkn Indomie tiap hari.,"Pas ujiannye jelek, emaknya ngomel dia bego gara2 kebanyakan indomie.",effect,501,1
+Cewek itu nyampe ke puncak Gunung Ijen.,Dia terus ngangkutin berkilo2 belerang turun gunung.,Ia keselek bau belerang yang nyengat.,effect,502,1
+Dia lagi pengen masakan jejepangan.,Pesenlah dia Kintan.,Pesenlah dia Hokben.,effect,503,1
+Banyak orang senengnya beli2 onlen di shopee.,Shopee kualitas barangnya bagusan.,Shopee banyak promonya.,cause,504,1
+Ni warung ayamnya abis.,CFC barusan aja ni ngeborong.,Mixue barusan aja ni ngeborong.,cause,505,0
+Toko ini jualan alkohol.,MUI ngegerebek tu toko.,FPI ngegerebek tu toko.,effect,506,1
+Adik rumahnye di bawah SUTET.,Dia jadi kena radiasi yang bikin kanker.,Dia jadi kena polusi yang bikin kanker.,effect,507,0
+Budi kuciwa jadinya pas beli tahu sumedang di toko yang ono.,Cabe ijo nya abis.,Cabe merah nya abis.,cause,508,0
+Ibuk beli santen di pasar.,Ibuk pengen masak opor ayam.,Ibuk pengen masak soto madura.,cause,509,0
+Gue mo beli salonpas.,Gue gerah bangett rasanya.,Pinggang gue suakitt.,cause,510,1
+Bokap pengen hidupnye lebih halal.,Bokap nabung ke BSI.,Bokap nabung ke MUI.,effect,511,0
+Pak Haji nanya2in tuh makanannye hari ini halal apa kagak.,Ia ditawarin bakmi medan.,Ia ditawarin bubur ayam cirebon.,cause,512,0
+Mbah ogah makan sashimi.,Dia suujon sama makanan laut.,Dia suujon sama makanan mentah.,cause,513,1
+Dia gatel2 abis nyeruput sop asparagus.,Dia alergi seafood.,Dia alergi jamur.,cause,514,0
+Temen gue ini nenggak kopinya sehari bercangkir2.,"Dia diperingatin lah, ""ati2 jgn kyk mbah surip.""","Dia diperingatin lah, ""ati2 jgn kyk ivan gunawan.""",effect,515,0
+Gue pengen pake taxi onlen mercy,Gue pesen lewat app Blue Bird.,Gue pesen lewat app Gojek.,effect,516,0
+SAMSAT lagi suka telat2an mroses mobil pribadi baru.,Cat merahnya abis.,Cat putihnya abis.,cause,517,1
+Demo meringatin pahlawan reformasi ngeganggu jalanan sekitar.,Jakbar macet banget.,Jaksel macet banget.,effect,518,0
+4 juni kemaren resto2 di mall pada rame.,Standard Chartered lagi banyak promo.,BNI lagi banyak promo.,cause,519,1
+Adek pundung abis jajan dadar gulung di sekolahnye.,Telurnye copot dari tusukannye.,Garpunya abis kata penjualnye.,effect,520,0
+Aer minum di rmh lagi abis nih.,Kaka disuruh ibuk beli galon.,Kaka disuruh ibuk telpon PDAM.,effect,521,0
+Adek seneng sama makanan hari ini.,Menunya ikan kaleng ABC enak.,Menunya kecap ABC enak.,cause,522,0
+Si om hobinye main domino mulu.,Duitnya abis gegara jajan pizza mulu.,Duitnya abis gegara dipake judi mulu.,effect,523,1
+Kakak nyalon jadi ketua OSIS.,Dia pengen ngeksis.,Dia pengen pinter.,cause,524,0
+"Murah sih, tapi tu warung bakso sepi mulu.",Lagi banyak isu bakso tikus.,Lagi banyak isu bakso sapi.,cause,525,0
+Tu warung soto pojokan rame terus dan rasanya emang enak banget.,Warungnye digosipin pake MSG.,Warungnye digosipin pake penglaris.,effect,526,1
+Adik lagi pesen bakso tapi dienye katanye juga lagi pengen idup sehat.,"Dia tereak ""jangan pake mecin bang!""",Dia cepet2 kabur gak pake bayar baksonya.,effect,527,0
+Bapak mau jumatan.,Ibuk nitip duit buat nyelengin di mesjid.,Ibuk nitip gopay buat infak mesjid.,effect,528,0
+Kakak lagi latian Paskibra.,Kakak mau ngerayain sumpah pemuda.,Kakak mau ngerayain dirgahayu Republik Indonesia.,cause,529,1
+Embah tuh alumni 212.,Dia mau ikutan reuni akbar di Monas.,Dia mau ikutan cosplay jadi ala2 Wiro Sableng.,effect,530,0
+Om seneng ngoleksi mainan kapak 212.,Dia pengen ngebawa tu kapak ke reuni akbar 212 di Monas. ,Dia pengen ngebawa tu kapak buat cosplay Wiro Sableng.,effect,531,1
+Bocah SMA itu bawa2 celurit di tas.,Dia mau ikutan tawuran.,Dia mau ikutan motong rumput.,cause,532,0
+Bocah SDN itu lagi ke sekolah hari senin.,Dia gak lupa pake dasi merah.,Dia gak lupa pake topi merah.,effect,533,1
+"Tiap taun, seringnye tetangga gue duluan sehari ngerayain idul qurbannye.",Die orang Muhamadiyah.,Die orang NU.,cause,534,0
+Bokap balik malem banget abis main karambol.,Tangannya kotor debuan abu kek tiga roda.,Tangannya kotor putih2 kek rose brand.,effect,535,1
+"Pulang2, tuh laki diamukin ama bininye.",Dia baru balik dari gunung kemukus.,Dia baru balik dari gunung bromo.,cause,536,0
+"Pas lagi Ospek, maba pada diamukin sama seniornya.",Katanya mereka gak kompak.,Katanya mereka gak ngerjain tugas kuliah.,cause,537,0
+17 Juli kemaren gue bawa mobil gue (yang platnya N9EWE) ke jalanan gede Jakarta.,Gue distop soalnya plat gue porno.,Gue distop soalnya gue ngelanggar ganjil genap.,cause,538,0
+Bentar lagi lebaran haji.,Jokowi beli sapi 250 kiloan.,Jokowi beli sapi 997 kiloan.,effect,539,1
+Bokap lagi kebakaran jenggot.,Jenggot bokap abis kebakar.,Nyokap lagi nyoba nenangin Bokap.,effect,540,1
+"Taun lalu kambing paman ada 6, sekarang udah 10 aje.",Kambing tuh berkembangbiak.,Kambing tuh pemamahbiak.,cause,541,0
+Dia mikir2 pas mau beli komputer bekas onlen tapi gak ada foto/videonya yang jelas.,Dia gak mau beli kucing dalem karung.,Dia gak mau beli laptop dalem gelap.,cause,542,0
+Kerjaannye rasanye kek negakkin benang basah.,Die nyerah.,Die tenggelem.,effect,543,0
+Gue lagi ngebantu mbah ngurusin kebon dan sumurnya yg kotor banget.,Gue seneng soalnye jadi dapet ladang amal.,Gue seneng soalnya jadi bisa numpang mandi.,effect,544,0
+Dia malu soalnye ngerasa abangnye sama die kyk bumi sama langit.,Di sekolah dia gak berprestasi gk kyk abangnya.,Dia kerja jadi astronot padahal abangnya tuh CEO,cause,545,0
+"Gara2 tuh kejadian, om jadi ngebayar sohibnya buat nyariin kambing item.",Si om kena kasus konspirasi.,Si om kambing sohibnye kabur.,cause,546,0
+Kakak lagi nyari tambatan hati.,Kakak donlot app buat nyari jodoh onlen.,Kakak donlot app buat beli tali onlen.,effect,547,0
+Di hari kelabu gini warga pada ngumpul buat ngasih penghormatan terakhirnye.,Ada tuh suara ujan kadang kedengeran netes.,Ada tuh suara nangis kadang kedengeran pecah.,effect,548,1
+Adik hari ini ikutan acara reuni sekolahnye.,Dia nemuin cinta lamanya die yg bersemi kembali gitu deh~~,Dia nemuin api lamanya die yg belom padam juga gitu deh~~,effect,549,0
+Adik lagi make rumus abc.,Adik lagi belajar alpabet.,Adik lagi ngerjain soal matematik.,cause,550,1
+Mbah senengnya sambil nyelem minum aer.,Kerjaan mbah seringnya cepet kelar semua.,Mbah sering keselek aer.,effect,551,0
+Bokap diomelin nyokap gara2 borosnya parah.,HIdup bokap kek gedean pasak ketimbang tiangnya.,Hidup bokap kek gali lobang tutup lobang.,cause,552,0
+Adik ngedenger petir di siang bolong.,Adik panik terus bingung mesti ngapain.,Adik kaget terus nyembunyiin diri di belakang kakak.,effect,553,0
+Dia nih penyelam yang jam terbangnya dah tinggi banget,Dia udh ngemakan asam garam di 20 laut di 5 benua,"Dia gak cuma punya sertifikat nyelam, dia juga pegang sertifikat terbang dah lama.",cause,554,0
+"Gara2 cedera, pemain bola itu mikir2 buat nutup karirnya.",Dia mutusin buat gantung diri.,Dia mutusin buat gantung sepatu.,effect,555,1
+Abang berat hati mau ngedonorin hati buat bapak.,Abang hatinya bengkak gara2 sakit kelainan.,Abang keder dioprasi.,cause,556,1
+Ni kampung penuh bgt sampah masyarakat.,Residivis pada pindah di mari.,Warga sini pada buang sampah sembarangan.,cause,557,0
+Dia ni preman yang gak kapok2 keluar-masuk penjara.,Dia dianggep kanker sosial.,Dia dianggep sampah masyarakat.,effect,558,1
+Meeting ini dah lama banget lah.,Yang ngisi muter2 mulu ngomongnya.,Yang ngisi mukul2 di sekitaran semak2 mulu.,cause,559,0

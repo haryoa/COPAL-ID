@@ -1,0 +1,560 @@
+premise,choice1,choice2,question,idx,label
+Pria itu memangku tasnya saat menaiki angkutan umum.,Pria itu berjaga-jaga agar tasnya tidak dicuri.,Tasnya empuk.,cause,0,0
+Kulitnya bentol-bentol.,Ia digigit nyamuk.,Ia dipatuk ayam .,cause,1,0
+Bapak saya masuk angin.,Bapak pulang dari salon.,Bapak pulang ronda.,cause,2,1
+Jari bocah itu sakit.,Ia terlalu banyak main enggrang.,Ia terlalu banyak main kelereng.,cause,3,1
+Dia sedih.,Nilai rapornya banyak yang merah.,Nilai rapornya banyak yang hijau.,cause,4,0
+Ibu itu begitu bahagia.,Namanya terpilih di undian arisan.,Namanya tidak terpilih di undian arisan.,cause,5,0
+Orang itu makan nasi porsi kuli.,Orang itu bosan makan nasi.,Orang itu belum makan dari kemarin.,cause,6,1
+Ia merasa geli.,Temannya menggosokkan kemoceng di kakinya.,Temannya menggosokkan kentongan di kakinya.,cause,7,0
+Ia tidak naik kelas.,Ia jarang belajar.,Ia takut ketinggian.,cause,8,0
+Pria itu baru saja selesai solat berjamaah. Ia terkejut.,Bajunya hilang dicuri.,Sandalnya hilang dicuri.,cause,9,1
+Gadis itu ikut latihan saman.,Ia senang ilmu mistis.,Ia senang menari.,cause,10,1
+Pemuda itu makan di warteg.,Dia sedang ingin makan makanan mewah.,Dia sedang berhemat.,cause,11,1
+KPR bapak macet.,Bapak dipecat dari kantor.,Bapak jarang membersihkan rumah.,cause,12,0
+Kakak menjuarai lomba gurindam.,Kakak sangat perkasa.,Kakak sangat kreatif.,cause,13,1
+Bapak itu memesan ojek.,Dia sangat mengantuk.,Dia ingin berangkat ke kantor.,cause,14,1
+Ibu kos datang.,Ia akan mengadakan lomba memasak.,Ia ingin menagih bayaran.,cause,15,1
+Mahasiswa itu terlihat gugup.,Sebentar lagi sidang pidana.,Sebentar lagi sidang skripsi.,cause,16,1
+Ia berlatih gerakan kuda-kuda.,Ia sedang belajar silat.,Ia sedang belajar naik kuda.,cause,17,0
+Kakinya kapalan.,Ia seorang nahkoda kapal.,Ia jarang pakai alas kaki.,cause,18,1
+Pengusaha kelas kakap itu akhirnya jatuh juga.,Hotel-hotel miliknya sepi pengunjung karena pandemi.,Ikan kakap yang dijualnya jatuh dari meja.,cause,19,0
+Wanita itu sangat ingin menjadi artis.,Ia menekuni seni melukis dan menggambar.,Ia mencoba mengadu nasib dengan mengikuti audisi penyanyi.,effect,20,1
+Mahasiswa itu ketahuan titip absen.,Mahasiswa itu dikeluarkan dari kampus.,Dosennya memberikan nilai F.,effect,21,1
+Siswa SMA itu rambutnya gondrong.,Gurunya menghukum siswa itu.,Gurunya mengapresiasi siswa itu.,effect,22,0
+Pak ogah membantu mobilnya putar balik.,Ia memberikan pak ogah uang receh.,Ia memberikan pak ogah bingkisan parsel.,effect,23,0
+Pengunjung itu memberikan tip 5% ke pelayan.,Pelayan itu kesal.,Pelayan itu merasa sangat senang.,effect,24,1
+Banyak sekali pungli sepanjang perjalanan.,Ia jadi jengkel.,Perjalanan semakin lancar.,effect,25,0
+Ia ingin memberbaharui SIM-C miliknya.,Ia datang ke kantor samsat.,Ia datang ke toko ponsel.,effect,26,0
+Sopir truk jarak jauh itu bosan.,Ia menyetel lagu dangdut.,Ia menyetel lagu jazz.,effect,27,0
+Pemuda tersebut berlatih angklung setiap hari.,Dia semakin handal bermain musik.,Dia semakin handal dalam menyetir mobil.,effect,28,0
+Segerombolan pemuda sedang menjelajah Kalimantan.,Mereka bertemu harimau liar.,Mereka bertemu komodo.,effect,29,0
+Saya minum air kobokan.,Saya merasa segar.,Perut saya sakit.,effect,30,1
+Got di komplek perumahaan itu tersumbat.,Pak RT menyiramkan cairan pelarut sampah.,Pak RT berinisiasi mengadakan kerja bakti.,effect,31,1
+"Hari senin, anak SD itu bangun jam 6 pagi.",Anak SD itu langsung bersiap ke sekolah.,Anak SD itu tidur lagi.,effect,32,0
+Ia didatangi pengamen.,Ia memberikan receh ke pengamen itu.,Ia memberikan gitar ke pengamen itu.,effect,33,0
+Banyak pembegalan di sekitar komplek.,Saya sangat bahagia.,Saya merasa cemas.,effect,34,1
+Pelajar itu ingin menembak temannya di sekolah.,Ia membawa bunga.,Ia membawa pistol.,effect,35,0
+Anak itu ingin sekali makan nasi dan ayam goreng tepung.,Ia pergi ke Subway.,Ia pergi ke Burger King.,effect,36,1
+Ada kasus demam berdarah di komplek itu.,Mereka mengadakan penyemprotan.,Mereka memanggil detektif.,effect,37,0
+Kakinya terkilir.,Ia pergi ke tukang urut.,Ia pergi ke tukang bekam.,effect,38,0
+Terlihat layang-layang putus.,Segerombolan anak-anak berlali kabur dari layang-layang itu.,Segerombolan anak-anak mengejar layang-layang itu.,effect,39,1
+Alergi kacangnya kumat dan ia gatal-gatal.,Ia makan cendol.,Ia makan ketoperak.,cause,40,1
+Orang itu menangis kepedasan.,Ia makan ayam penyet.,Ia makan ayam kremes.,cause,41,0
+Listrik di rumahnya padam.,Ia lupa mengisi ulang token PLN.,Ia lupa mengisi ulang token PAM.,cause,42,0
+Ia kehabisan tinta kuning.,Ia mencetak 1000 selebaran promosi PDIP.,Ia mencetak 1000 selebaran promosi Golkar.,cause,43,1
+Anak kecil itu menjerit ketakutan.,Ia melihat onde-onde.,Ia melihat ondel-ondel.,cause,44,1
+Bapak itu merantau ke Jakarta.,Ia ingin jalan-jalan.,Ia ingin mencari penghidupan yang lebih baik.,cause,45,1
+Pemuda itu dilarikan ke rumah sakit.,Ia minum bir oplosan.,Ia minum bir pletok.,cause,46,0
+Ia masuk ke Indomaret.,Ia kelelahan di luar dan ingin cari tempat duduk.,Ia kepanasan di luar dan ingin mendinginkan diri.,cause,47,1
+Ibu pergi ke Pasar Minggu.,Ibu ingin belanja.,Hari ini hari minggu.,cause,48,0
+Ia merasa gelisah.,Orang di sebelahnya terlalu banyak makan jengkol.,Orang di sebelahnya hobi makan tempe orek.,cause,49,0
+Ibu beli beras ketan.,Ibu mau masak kue lumpur.,Ibu mau masak kue lemper.,cause,50,1
+Perempuan itu pergi ke Gambir.,Ia ingin makan siang.,Ia ingin pergi ke luar kota.,cause,51,1
+Wanita itu pergi ke Puncak.,Wanita itu butuh istirahat.,Wanita itu sudah bekerja di perusahaannya selama 10 tahun.,cause,52,0
+Bapak itu senang sekali.,Ada lemper di kotak makanannya.,Ada lipan di kotak makanannya.,cause,53,0
+Ia rajin angkat beban.,Ia ingin terlihat seperti Ade Rai.,Ia ingin terlihat seperti Syahrini.,cause,54,0
+Ia pergi ke Soekarno Hatta.,Ia ada keperluan di Bandung.,Ia ada keperluan di Makassar.,cause,55,1
+Anak itu ketakutan.,Ia mimpi melihat polri.,Ia mimpi melihat pocong.,cause,56,1
+Anak itu menjerit histeris.,Ia naik kora-kora.,Ia naik odong-odong.,cause,57,0
+Ia berurusan dengan polisi.,Ia lupa bawa KK saat berkendara.,Ia lupa bawa STNK saat berkendara.,cause,58,1
+Pria itu memperbaharui KK miliknya.,Ia baru saja lulus kuliah.,Ia baru saja menikah.,cause,59,1
+Dokternya menyarankannya untuk mengurangi konsumsi karbohidrat.,Ia berhenti makan lontong sayur.,Ia berhenti makan rujak buah.,effect,60,0
+Ia ingin pergi jalan-jalan ke Ancol.,Ia mengenakan jaket tebal.,Ia mengenakan sunscreen.,effect,61,1
+Ia ingin mencari buku bacaan baru.,Ia pergi ke Barnes Noble.,Ia pergi ke Gunung Agung.,effect,62,1
+Orang itu sangat mengidolakan Gatot Kaca.,Ia jadi rajin pergi ke salon.,Ia jadi rajin berolahraga.,effect,63,1
+Ia diminta membuat laporan tentang pahlawan nasional.,Ia menulis tentang Diponegoro.,Ia menulis tentang Martin Luther King Jr.,effect,64,0
+Saya tidak sengaja menumpahkan kuah gulai.,Bajunya menjadi hijau.,Bajunya menjadi kuning.,effect,65,1
+Hari ini adalah hari libur Idul Fitri.,Orang-orang pergi mudik.,Orang-orang beritikaf di masjid.,effect,66,0
+Diadakan acara keroncong di kampung.,Banyak warga kelaparan.,Banyak warga terhibur.,effect,67,1
+Kakakku mengidolakan Joko Anwar.,Kakakku ingin masuk dunia politik.,Kakakku ingin berkarya di dunia film.,effect,68,1
+Kakakku mengidolakan Joko Widodo.,Kakakku ingin masuk dunia politik.,Kakakku ingin berkarya di dunia film.,effect,69,0
+Siswa SMA itu ingin sekali melanjutkan pendidikan di ITB.,Siswa itu belajar IELTS.,Siswa itu mengikuti bimbel.,effect,70,1
+Bapak terlalu banyak mengonsumsi Gudang Garam.,Bapak sakit paru-paru.,Bapak darah tinggi.,effect,71,0
+Sekumpulan anak melompat-lompat di TransJakarta.,Mereka ditegur penumpang lainnya.,Banyak anak lainnya yang jadi ikut melompat-lompat.,effect,72,0
+Sekumpulan anak melompat-lompat di Trans Studio.,Mereka ditegur penumpang lainnya.,Banyak anak lainnya yang jadi ikut melompat-lompat.,effect,73,1
+Ia makan es teler setiap hari.,Ia diabetes.,Ia mabuk.,effect,74,0
+Aplikasi QRIS-nya rusak.,Ia panggil tukang servis.,Ia akhirnya pakai kartu debit.,effect,75,1
+Ia ingin mendapatkan kursi DPR.,Ia melakukan kampanye besar-besaran.,Ia beli kursi di toko furnitur.,effect,76,0
+Pemudi itu ingin sekali makan nasi padang.,Ia pesan tiket pesawat ke Padang.,Ia pesan melalui aplikasi.,effect,77,1
+Anak itu berjalan kaki mengelilingi Taman Mini.,Ia tidak lelah.,Ia sangat kelelahan.,effect,78,1
+Ia ganteng.,Ia melamar pekerjaan di Tanah Abang.,Ia mengajukan diri sebagai Abang Jakarta.,effect,79,1
+Polisi mengamankan stadion.,Ada perseteruan Persija dan Persebaya.,Ada perseteruan NU dan Muhammadiyah.,cause,80,0
+Mereka sekeluarga sehari-hari makan raskin.,Bapaknya seorang pemulung.,Bapaknya direktur Telkomsel.,cause,81,0
+Rambut gadis itu seperti mak lampir.,Ia jarang mandi.,Ia sering creambath.,cause,82,0
+Laporan BMKG membuat warga panik.,Akan terjadi inflasi.,Akan terjadi badai.,cause,83,1
+Ia senang tinggal di Kebon Jeruk.,Akses ke kantornya mudah.,Ia bisa makan jeruk setiap hari.,cause,84,0
+Ia tidak suka tinggal di Kelapa Gading.,Kelapa membuatnya mual.,Jalanan macet.,cause,85,1
+Mahasiswa sedang mengumpulkan dana untuk kegiatan mahasiswa.,Mereka terlihat sedang berjualan piscok.,Mereka terlihat sedang berjualan handphone.,cause,86,0
+Tiba-tiba bapak didatangi rentenir.,Foto KTP-nya bocor.,Foto ijazahnya bocor.,cause,87,0
+Dia dibawa ke rumah sakit.,Dia tidak sengaja menelan biji salak.,Dia tidak sengaja menelan biji pepaya.,cause,88,0
+Ia dirujak teman-temannya.,Ia suka buah-buahan.,Ia beropini yang kontroversial.,cause,89,1
+Anak itu diterima masuk UI.,Sekeluarga makan nasi uduk.,Sekeluarga makan nasi kuning.,effect,90,1
+Ibu belanja di pasar.,Ia membayar dengan ApplePay.,Ia membayar dengan uang kertas.,effect,91,1
+Anak itu ingin merantau.,Ibunya membekalinya rendang.,Ibunya membekalinya kerupuk.,effect,92,0
+Kelakuannya seperti dajjal.,Dia banyak dimusuhi orang.,Dia banyak teman.,effect,93,0
+Orang itu mengalami kecelakaan mobil.,Ia dilarikan ke UGD.,Ia dilarikan ke puskesmas.,effect,94,0
+"Ibu menyampurkan gula, garam, dan jeruk di masakannya.",Rasa makanannya nano-nano.,Rasa makanannya kopiko.,effect,95,0
+Aku sedang berhemat.,Aku naik Damri.,Aku naik Blue Bird.,effect,96,0
+Saya terlambat masuk kantor.,Saya segera naik angkot.,Saya segera pesan Gojek.,effect,97,1
+Ia suka berjemur.,Ia cukup sering main ke Lombok.,Ia cukup sering main ke Lembang.,effect,98,0
+Ada pesta makan rengginang.,Banyak remah-remah di lantai.,Mereka ditangkap aparat.,effect,99,0
+Ia dikenal sebagai kembang desa.,Parasnya begitu cantik.,Ia banyak menanam kembang di sekitar rumahnya.,cause,100,0
+Air seninya bening.,Ia terlalu banyak minum air.,Cat warnanya habis.,cause,101,0
+Dirinya dijuluki bermuka badak.,Dia selalu tampil di depan kelas.,Dia suka pakai topeng badak.,cause,102,0
+Rumahnya dimakan si jago merah.,Pemilik rumah lupa mematikan kompor.,Si jago merah kelaparan.,cause,103,0
+Jalanan macet.,Mahasiswa sedang demo praktikum.,Mahasiswa sedang demo.,cause,104,1
+Ia mengadu domba tetangganya.,Tetangganya jadi bertengkar.,Domba tetangganya terluka.,effect,105,0
+Anak itu ingin sekali menuntut ilmu di negeri sakura.,Ia pergi ke pengadilan Tokyo.,Ia belajar bahasa Jepang.,effect,106,1
+Ia selalu jadi mahasiswi kupu-kupu.,Ia jadi cantik.,Ia kurang pengalaman.,effect,107,1
+Ia selalu jadi mahasiswa kura-kura.,Ia kurang tidur.,Jalannya lambat.,effect,108,0
+Orang itu sudah bau tanah.,Orang itu hobi kamping.,Orang itu sering sakit.,effect,109,1
+"Gadis itu berjalan melewati tukang bakso, tiba-tiba tukang baksonya senyum.",Tukang baksonya sedang kesal dengan gadis tersebut.,Tukang baksonya sedang menyapa gadis tersebut.,cause,110,1
+Mertua mendapatkan menantu idaman.,Menantunya kerja jadi freelancer.,Menantunya kerja jadi PNS.,cause,111,1
+Di malam hari jalanan sangat ramai.,Hari ini hari sabtu.,Hari ini hari jumat.,cause,112,0
+Anak muda itu pakai baju seragam SMA yang sudah dicoret-coret.,Anak muda itu baru lulus sekolah.,Anak muda itu baru diterima di sekolahnya.,cause,113,0
+Hari minggu pagi warga kompleks berkumpul bersama.,Warga kompleks akan nonton pertandingan bola.,Warga kompleks akan kerja bakti.,cause,114,1
+Murid itu bisa membangun tenda.,Murid itu ikut OSIS.,Murid itu ikut Pramuka.,cause,115,1
+Penonton berjoget bersama di lapangan.,Penonton sedang menonton konser dangdut.,Penonton sedang menonton konser metal.,cause,116,0
+"Malam ini orang-orang membakar jagung, sosis, dan ikan.",Besok tanggal 1 Januari.,Besok tanggal 17 Agustus.,cause,117,0
+"Paman sedang sarungan, kokoan, dan pecian.",Paman mau ke masjid.,Paman mau pergi memancing.,cause,118,0
+Malin kundang jadi batu.,Malin kundang mencuri pusaka kerajaan.,Malin kundang durhaka ke ibunya.,cause,119,1
+Bawang putih disiksa ibunya.,Bawang putih hanyalah anak tiri.,Bawang putih durhaka ke ibunya.,cause,120,0
+"Saat lebaran, suasana kota Jakarta sangat sepi.",Masyarakat sedang nyepi.,Masyarakatnya sedang pulang kampung.,cause,121,1
+Laki-laki bugis perlu menabung uang banyak sebelum menikah.,Mahar yang diberikan ke keluarga pasangan mahal.,Uangnya untuk disedekahkan ke yang membutuhkan.,cause,122,0
+Lantai rumah jarang berdebu.,Pengunjung lepas sepatu sebelum masuk rumah.,Rumah sering ditinggal pemilik.,cause,123,0
+Sepupuku pakai jaket di siang hari.,Sepupuku sedang sakit flu.,Sepupuku takut kulitnya menghitam.,cause,124,1
+Saya makan lalapan pakai tangan.,Lebih mudah mengambil lalapannya.,Sebagai bentuk rasa syukur ke Tuhan.,cause,125,0
+Kakak sedang membuat sambal terasi.,Kakak membuat sambalnya dengan diulek.,Kakak membiarkan sambal dan bahan lainnya secara mentah.,cause,126,0
+Pelajar jogja dilarang keluar rumah diatas jam 10 malam.,Di jogja sering terjadi gempa bumi.,Fenomena klitih sedang marak.,cause,127,1
+Aku tidak diperbolehkan menonton pertandingan Persib melawan Persija oleh ibu.,Kemungkinan pertandingan menjadi tidak seru.,Kemungkinan akan terjadi kerusuhan.,cause,128,1
+Papa mendapat gaji tambahan di hari raya.,Gaji tersebut adalah uang pensiun.,Gaji tersebut adalah THR.,cause,129,1
+"Tahun ini, ujian sekolah pakai LJK.",Murid harus menggunakan pensil.,Murid harus menggunakan pulpen.,effect,130,0
+"Tiap awal bulan, ibu pergi ke warung.",Ibu mengisi token listrik dirumah.,Ibu ikut minum kopi di warung.,effect,131,0
+Orang itu suka bersantai pakai kaos dalam dan sarung.,Dia dijuluki seperti anak muda.,Dia dijuluki seperti bapak-bapak.,effect,132,1
+Punggung pakde sedang dikerok.,Badan pakde tidak perih lagi.,Badan pakde tidak masuk angin lagi.,effect,133,1
+Bendahara kelas hari ini ulang tahun.,Bendahara kelas dilempar garam oleh temannya.,Bendahara kelas dilempar tepung oleh temannya.,effect,134,1
+Kami menghormati pengorbanan para pahlawan.,Kami mengikuti upacara setiap senin.,Kami mengikuti aktivitas kemah setiap minggu.,effect,135,0
+Hari ini hari raya nyepi di Bali.,Jalanan di Bali sepi.,Jalanan di Bali ramai.,effect,136,0
+Bibi lagi liburan ke Lombok.,Bibi mampir ke pantai.,Bibi mampir ke tempat ski.,effect,137,0
+Teman saya tinggal di sekitaran SCBD.,Dia punya biaya hidup murah.,Dia punya biaya hidup mahal.,effect,138,1
+Kakak menjaga kebersihan tubuh.,Kakak mandi dua hari sekali.,Kakak mandi dua kali sehari.,effect,139,1
+Aku mendadak lapar saat malam hari.,Aku beli nasi goreng.,Aku beli nasi uduk.,effect,140,0
+Adik menyapu lantai tidak bersih.,"Ibu yang percaya mitos berkata ""Nanti suami kamu gembul, lho"".","Ibu yang percaya mitos berkata, ""Nanti suami kamu brewokan, lho"".",effect,141,1
+Keluarga Pak Kades selesai makan di restoran.,Pak Kades memberikan uang tips ke pelayan.,Keluarga Pak Kades kembali pulang ke rumah.,effect,142,1
+Dosenku membeli nasi padang untuk dibawa pulang.,Dosenku tidak mendapat daging di nasi padangnya.,Nasi yang didapat lebih banyak.,effect,143,1
+Hari ini hari raya kartini.,Anak sekolah cewek pakai baju kebaya.,Anak sekolah cewek diliburkan.,effect,144,0
+Adik yang masih TK akan berangkat ke sekolah.,Adik menunggu bis sekolah.,Adik mencium tangan orang tua.,effect,145,1
+Keluarga kami mau buka puasa.,Kami berbuka puasa dengan makanan manis.,Kami berbuka puasa dengan makanan asin.,effect,146,0
+Adik makan ayam tidak pakai nasi.,Makanannya serasa tidak kenyang.,Makanannya serasa tidak enak.,effect,147,0
+Keluarga yang percaya mitos itu punya banyak anak.,Keluarga tersebut yakin akan mendapat banyak ilmu.,Keluarga tersebut yakin akan mendapat banyak rezeki.,effect,148,1
+Warung kami tidak punya uang pecahan.,Pakai camilan sebagai pengganti uang pecahan.,Pakai permen sebagai pengganti uang pecahan.,effect,149,1
+Paman tidak mau diajak ke Malang.,Paman tidak tahan dingin.,Paman tidak tahan panas.,cause,150,0
+Aku datang ke acara Mamah Dedeh.,Aku ingin berobat.,Aku ingin curhat.,cause,151,1
+Pak Jokowi menjadi lebih dekat dengan masyarakat.,Pak Jokowi sering blusukan ke pasar.,Pak Jokowi sering tampil di acara TV.,cause,152,0
+Cewek itu baru saja makan Seblak.,Badannya terasa panas.,Badannya terasa capek.,cause,153,0
+Keluargaku kehabisan gas.,Kami baru saja naik mobil mengelilingi Jakarta.,Kami baru saja memasak banyak masakan.,cause,154,1
+"Setelah upacara, saya minum cendol.",Badan saya terasa segar.,Badan saya terasa hangat.,cause,155,0
+Banyak rombongan study tour mampir ke Monas.,Rombongan study tour bisa melihat pemandangan kota.,Rombongan study tour bisa menikmati suasana udara dingin.,cause,156,0
+Aku membawa baju renang sebelum berangkat.,Aku mau ke Gunung Kidul.,Aku mau ke Ancol.,cause,157,1
+Andi F Noya melakukan hal yang gila.,Dia membela teroris di sidang hari ini.,Dia mewawancarai teroris di TV nasional.,cause,158,1
+Iwan Fals banyak disukai orang orang.,Akting Iwan Fals bagus.,Nyanyian Iwan Fals bagus.,cause,159,1
+Bos saya tidak banyak makan nasi saat kerja di Papua.,Sagu adalah makanan pokok disana.,Jagung adalah makanan pokok dimana.,cause,160,0
+Bakpia cocok jadi cemilan.,Ukuran Bakpia kecil.,Bakpia sangat renyah.,cause,161,0
+Mata paman berkunang-kunang.,Paman bekerja keras seharian.,Paman belum mandi seharian.,cause,162,0
+Raja Ampat memberikan pesona yang luar biasa.,Keindahan bawah lautnya yang luar biasa.,Figur dan sifatnya yang sangat berwibawa.,cause,163,0
+Pak Raden menggerakkan boneka si Unyil.,Pak Raden sedang berakting.,Pak Raden sedang menceritakan kisah.,cause,164,1
+Raul Lemos dan Krisdayanti hidup bersama.,Mereka berdua menikah.,Mereka berdua saudara kandung.,cause,165,0
+Sate Madura rasanya manis.,Bumbunya terbuat dari gula merah.,Bumbunya terbuat dari madu.,cause,166,0
+Mama tidak suka menonton topeng monyet.,Topeng monyet mengekang kebebasan hewan tersebut.,Bentuk dari topeng monyet yang menyeramkan.,cause,167,0
+Bapak mampir ke pom bensin untuk buang air besar.,Bapak tadi banyak makan nasi.,Ember di dalam mobil sudah penuh.,cause,168,0
+Aku ke bundaran HI untuk cuci mata.,Aku ingin bertemu cewek cantik.,Mataku kotor terkena debu.,cause,169,0
+"Di acara TV, Chef Bondan baru saja selesai memasak .","Dia berkata ""Maknyus"".","Dia berkata ""Chuakz"".",effect,170,0
+Bung Tomo berpidato di Surabaya.,Bung Tomo membakar semangat kemerdekaan masyarakat.,Bung Tomo menenangkan amarah jendral Belanda.,effect,171,0
+Sore ini cuaca berangin.,Anak-anak bisa main bulutangkis.,Anak-anak bisa main layangan.,effect,172,1
+Biji kopinya berasal dari luwak.,Kopi luwak tersebut menjadi enak.,Kopi luwak tersebut menjadi menjijikan.,effect,173,0
+Wisatawan pakai kaos hijau ke Pantai Parangtritis.,Orang-orang yang percaya mitos takut dia akan terbakar matahari pantai.,Orang-orang yang percaya mitos takut dia akan terseret ombak.,effect,174,1
+Nenek beli pempek kapal selam.,Ia menikmati telur rebus di dalamnya.,Ia melihat pempek tersebut mengapung didalam air.,effect,175,0
+Aku berangkat sekolah pakai motor bebek.,Motorku mampu mengapung diatas banjir.,Aku harus pindah gigi secara manual.,effect,176,1
+Tutup kaleng kerupuk tidak ditutup dengan rapat.,Kerupuk tersebut melempem.,Kerupuk tersebut basi.,effect,177,0
+Aku mau berhemat .,Aku beli pecel lele.,Aku beli ayam goreng KFC.,effect,178,0
+Giring Nidji pergi ke atas panggung.,Giring mau menyanyikan lagu.,Nidji dibawa pergi oleh petugas keamanan.,effect,179,0
+Pak Tarno menepuk tangannya.,Ia sedang memberikan pujian.,Ia akan memulai sulapnya.,effect,180,1
+Anak kompleks sedang bermain gobak sodor.,Mereka berlomba memberikan gobak ke temannya.,Mereka berusaha menghindari halangan temannya.,effect,181,1
+Bapak ingin ber-swafoto.,Bapak pakai pose pegangan tangan.,Bapak pakai pose jempol.,effect,182,1
+Pedagang itu menjual Kerak Telor.,Dia memutar balikkan wajannya.,Dia menggunakan kulit telor sebagai bahan masakan.,effect,183,0
+Istriku ingin beli ikan mas.,Istriku bertransaksi dengan pemuda Jawa.,Istriku akan memasak gulai hari ini.,effect,184,1
+Pak Kumis orang Sukabumi.,Pak Kumis menanam pohon.,Pak Kumis bisa bahasa Sunda.,effect,185,1
+Abangku sedang di Palu.,Abang berangkat ke Sulawesi.,Abangku terluka dan dibawa kerumah sakit.,effect,186,0
+Mbah Surip tiba-tiba mengangkat saya.,Saya dibawa pulang kerumah.,Saya dibawa berkeliling ke berbagai tempat.,effect,187,1
+Ariel dan Peterpan sedang naik daun.,Anak-anak semakin sering berimajinasi menjadi tokoh fantasi.,Album mereka semakin banyak yang beli.,effect,188,1
+Sapi itu sedang tidak enak badan.,Daging sapinya tidak laku.,Sapinya lemas seharian.,effect,189,1
+Kakak kecewa ketika membuka kaleng biskuit.,Isinya ternyata Rengginang.,Kalengnya terbuat dari besi.,cause,190,0
+Ibu membeli daun janur menjelang lebaran.,Ibu mau membuat ketupat.,Ibu mau membuat es buah.,cause,191,0
+Ada museum bencana alam di Aceh.,Dulu pernah terjadi gempa bumi di Aceh.,Dulu pernah terjadi tsunami di Aceh.,cause,192,1
+Pemuda itu berjalan bungkuk ketika lewat depan orang tua.,Pemuda tersebut menghormati yang lebih tua.,Pemuda tersebut mengagumi yang lebih tua.,cause,193,0
+Pamanku suka memberi cendol di internet.,Pamanku bermain 1cak.,Pamanku bermain kaskus.,cause,194,1
+Kepolisian angkat tangan menangani kasus Novel Baswedan.,Keadilan terhadap Novel Baswedan perlu ditegakkan.,Bukti yang dimiliki sangat sedikit.,cause,195,1
+Adik kesemutan setelah tadarusan di masjid.,Adik tidak membersihkan gula yang tumpah.,Adik duduk bersila terlalu lama.,cause,196,1
+Kami akan sholat di langgar.,Kami ingin mendapat pahala yang lebih banyak.,Kami ada acara penting yang mendadak.,cause,197,0
+Kota Bandung disebut sebagai kota lautan api.,Dulu pernah terjadi perang besar disana.,Dulu pernah terjadi bencana kebakaran besar disana.,cause,198,0
+Jalan raya didepan rumah orang tersebut ditutup.,Mereka sedang mengadakan pesta hajatan.,Mereka sedang mengadakan pesta ulang tahun.,cause,199,0
+Istriku sudah lama tidak datang bulan.,Kami menunggu bulan purnama tiba.,Kami segera ke rumah sakit.,effect,200,1
+Lampu merah pancoran terlalu lama.,Lampu merahnya menjadi mati.,Aku jadi terlambat ke seminar.,effect,201,1
+Motor matic temanku mogok di jalan.,Aku melakukan stut motor bersamanya.,Aku memanggil mobil derek untuk mengangkut motornya.,effect,202,0
+Anak pejabat punya orang dalam.,Dia diterima tanpa ujian.,Dia tidak perlu lagi mengurus rumah.,effect,203,0
+Kami melewati simpang empat tanpa lampu merah.,Ada Pak Raden yang mengatur lalu lintas.,Ada Pak Ogah yang mengatur lalu lintas.,effect,204,1
+Banyak orang memasukkan nama Pak SBY ke kotak suara.,Pak SBY menjadi presiden.,Pak SBY bernyanyi dengan semangat.,effect,205,0
+Acara wisuda ITS dipenuhi dengan arak arakan.,Seluruh mahasiswa mabuk dan tidak sadarkan diri.,Seluruh mahasiswa bersorak kepada wisudawan.,effect,206,1
+Aku disuruh membeli beras di supermarket dengan ukuran paling kecil.,Aku membawa pulang beras 3 sendok makan.,Aku membawa pulang beras 5 kg.,effect,207,1
+Nasi kemarin malam tidak habis.,Mama masak nasi kebuli pagi ini.,Mama masak nasi goreng pagi ini.,effect,208,1
+Sangkuriang menendang perahu.,Perahunya menjadi gunung.,Perahunya hanyut ke laut.,effect,209,0
+Hari ini mall sedang sepi pengunjung.,Hari ini tanggal tua.,Hari ini tanggal muda.,cause,210,0
+Anak itu hidup sebatang kara.,Anak itu seorang yatim piatu.,Anak itu bekerja menjadi petani.,cause,211,0
+Para pemuda rela mati demi berjuang pada zaman penjajahan.,Kemerdekaan NKRI harga mati.,Harga kemerdekaan NKRI mati.,cause,212,0
+Anak SD itu sering sekali pergi ke perpustakaan kota.,Dia bekerja sebagai pustakawan.,Dia seorang kutu buku.,cause,213,1
+Klien angkat kaki dari rapat.,Klien merasa kakinya pegal.,Klien kecewa dengan proposal rapat.,cause,214,1
+Adik terus membangkang perintah bapak.,Bapak menjadi besar kepala.,Bapak menjadi naik pitam .,effect,215,1
+Aku gagal menjadi polisi.,Aku menjadi rusak hati.,Aku menjadi kecil hati.,effect,216,1
+Rumah tetangga saya baru saja dibobol maling.,Dia menggigit jarinya.,Dia cuma bisa gigit jari.,effect,217,1
+Orang itu menjadi kaki tangan teroris.,Orang itu terdakwa bersalah.,Orang itu menjadi tawanan.,effect,218,0
+Perusahaan tersebut terus merugi selama 1 tahun terakhir.,Perusahaan tersebut gulung tikar.,Perusahaan tersebut sampah masyarakat.,effect,219,0
+Orang dari eropa terkena diare.,Orang itu makan makanan yang dibeli di pinggir jalan.,Orang itu makan makanan yang dibeli di Restoran Warteg.,cause,220,0
+Ada anak kecil mual dan muntah.,Anak itu minum air keran.,Anak itu minum air galon.,cause,221,0
+Motor itu berlawanan arah jalan.,Destinasi perjalanannya dekat.,Tidak ada mobil di jalan.,cause,222,0
+Murid sekolah berkumpul di lapangan sekolah setiap jam 7 pagi hari senin.,Ada acara ramah tamah mingguan di sekolah itu.,Ada upacara bendera mingguan di sekolah itu.,cause,223,1
+Anak itu dimarahi orang tuanya.,Anak itu makan dengan tangan kiri.,Anak itu makan dengan tangan kanan.,cause,224,0
+"Menjelang lebaran, langit terlihat tidak kosong dan terdengar bunyi bising.",Anak-anak banyak bermain petasan di lapangan.,Polusi suara dan udara masif dikeluarkan oleh pabrik.,cause,225,0
+Ibu itu dilarang tawar menawar harga.,Ibu itu belanja di supermarket.,Ibu itu belanja di pasar.,cause,226,0
+Ibu itu punggungnya merah.,Ibu itu dikerok oleh anaknya.,Ibu itu ditaburi bedak oleh anaknya.,cause,227,0
+Kucing itu terkenal sangat ganas.,Kucing itu berwarna hitam.,Kucing itu berwarna oranye.,cause,228,1
+Warga kampung Jakarta bahu membahu membersihkan got kampung mereka.,Warga tersebut mengaplikasikan semangat gotong royong.,Warga tersebut mengaplikasikan semangat bhinneka tunggal ika.,cause,229,0
+Siswa-siswa baru SMA sedang dimarahi oleh kakak kelasnya.,Sedang ada upacara bendera.,Sedang ada masa orientasi sekolah.,cause,230,1
+Seorang pemuda laki-laki memakai baju batik.,Pemuda itu berada di acara pernikahan.,Pemuda itu berada di diskotik.,cause,231,0
+Di sekolah tadi saya berada dalam bahaya.,Ada insiden penembakan masal di sekolah saya.,Saya hampir tertabrak mobil saat ujian praktek penjaskes.,cause,232,1
+Ada lomba makan kerupuk.,hari ini hari proklamasi kemerdekaan indonesia.,Hari ini hari pancasila.,cause,233,0
+Anak-anak itu menggambar kotak-kotak menggunakan kapur di jalan.,Anak-anak itu ingin bermain bekel.,Anak-anak itu ingin bermain engklek.,cause,234,1
+Orang itu ditangkap polisi.,Orang itu membawa pistol.,Orang itu membawa pisau.,cause,235,0
+Ada bendera warna kuning polos di dekat rumah tetangga.,ada tetangga yang meninggal.,ada tetangga yang mengingatkan menyetir pelan.,cause,236,0
+Orang itu terlalu banyak minum air.,Orang itu membuang air seni.,Orang itu membuang air hiasan.,cause,237,0
+Orang itu pergi ke McD.,Ia ingin memakan ayam dengan sagu.,Ia ingin memakan ayam dengan nasi.,cause,238,1
+Orang itu memakai kopiah.,Orang itu menjadi penghulu pernikahan.,Orang itu menjadi pembawa acara quiz.,cause,239,0
+Seseorang mengenakan sepatu saat ingin masuk ke rumah mertua.,Orang tersebut memakainya sepatunya kerumah.,Orang tersebut melepas sepatunya sebelum masuk kerumah.,effect,240,1
+Kita diberikan suatu hadiah.,Kita ambil dengan tangan kiri.,Kita ambil dengan tangan kanan.,effect,241,1
+Penumpang angkutan umum ingin turun di jalan.,"Penumpang teriak ""kanan"".",Penumpang Teriak “kiri”.,effect,242,1
+Orang itu akan menyebrang jalan raya.,Orang itu memakai tangannya sebagai tanda akan menyebrang.,Orang itu memakai bendera merah sebagai tanda akan menyebrang.,effect,243,0
+Pembuat gedung 20 lantai penganut ajaran fengshui.,Gedung itu tidak memiliki desain khas Nusantara.,Gedung itu tidak memiliki lantai 4.,effect,244,1
+Pemuda Indonesia tersebut selesai membuang air besar.,Pemuda tersebut membersihkan pantatnya dengan tisu.,Pemuda tersebut membersihkan pantatnya dengan air.,effect,245,1
+Anak-anak kampung melihat orang Eropa paruh baya.,"Anak-anak kampung itu memanggil orang tersebut ""mas"".","Anak-anak kampung itu memanggil orang tersebut ""mister"".",effect,246,1
+Saat bulan ramadhan ada tambahan upah diberikan ke karyawan.,Perusahaan wajib memberikan uang makan untuk karyawan yang sedang puasa.,Perusahaan wajib memberikan THR ke karyawan.,effect,247,1
+Sekelompok wisatawan pergi ke Bunaken.,Sekelompok Wisatawan tersebut mendaki gunung.,Sekelompok wisatawan tersebut menyelam ke laut.,effect,248,1
+Satu keluarga yang tidak mampu ingin menyekolahkan anaknya.,Anaknya disekolahkan ke sekolah swasta.,Anaknya disekolahkan ke sekolah negeri.,effect,249,1
+40 hari setelah wafatnya seorang muslim di suatu perumahan.,Di perumahan itu diadakan pesta dansa.,Di perumahan itu diadakan tahlilan.,effect,250,1
+Seorang karyawan perusahaan berangkat jam 7 pagi menuju Jakarta Pusat.,Karyawan tersebut terjebak macet.,Karyawan tersebut tidak terjebak macet.,effect,251,0
+Orang itu bernama Haryo.,Orang itu berasal dari Padang.,Orang itu berasal dari Jawa.,effect,252,1
+Hari ini tanggal 31 Oktober.,Seisi kota tidak dihiasi alat properti haloween.,Seisi kota dihiasi alat properti haloween.,effect,253,0
+Guru masuk di awal pelajaran siswa sekolah dasar.,Ketua kelas memberi aba-aba salam.,Ketua kelas memberi aba-aba belajar.,effect,254,0
+Orang itu parkir motor di depan indomaret.,Orang itu diminta bayar biaya parkir ke penjaga parkir.,Orang itu bayar biaya parkir ke kasir Indomaret.,effect,255,0
+Ayah penyayang binatang.,Ayah punya perkutut di rumah.,Ayah punya wayang di rumah.,effect,256,0
+Anak kecil itu menaruh tangan ke kepala orang tuanya.,Anak kecil itu menaruh tangan ke punggung orang tuanya.,Anak kecil itu dimarahi orang tua.,effect,257,1
+Orang itu ingin makan rendang.,Orang itu ke restoran sederhana.,Orang itu ke restoran warteg.,effect,258,0
+Anak itu pengecut dalam menghadapi masalah.,Anak itu dijuluki ayam.,Anak itu dijuluki kucing.,effect,259,0
+Siswa-siswa pergi ke Taman Banteng.,Mereka berencana wisata kuliner.,Mereka berencana Wisata sejarah.,cause,260,1
+Menkominfo tersangkut korupsi BTS.,Menkominfo diperiksa KPK terkait pengadaan konser. .,Menkominfo diperiksa KPK terkait pengadaan pembangunan.,cause,261,1
+Ada kemacetan di Jalan Pantura di Jawa.,Hari ini hari mudik lebaran.,Hari ini hari kerja.,cause,262,0
+Siswa SMA dihukum oleh guru sekolah.,Siswa itu baru datang ke sekolah pukul 6.,Siswa itu baru datang ke sekolah pukul 8.,cause,263,1
+Orang itu menonton video Cak Lontong.,Orang itu mencari pengetahuan makanan.,Orang itu mencari hiburan lawakan.,cause,264,1
+Keluaga itu belangganan PAM.,Keluarga itu membutuhkan asupan air bersih.,Keluarga itu membutuhkan listrik.,cause,265,0
+Banyak ondel-ondel di suatu lapangan.,Lapangan tersebut digunakan untuk festival ulang tahun Jakarta.,Lapangan tersebut digunakan untuk festival ulang tahun Surabaya.,cause,266,0
+Orang itu punya alergi ketan.,Orang itu menghindari makan kue memek.,Orang itu menghindari makan kue lapis.,cause,267,0
+Kendaraan tersebut melambatkan jalannya.,ada polisi lalu lintas di depan mata.,ada polisi tidur di depan mata.,cause,268,1
+Mahasiswa itu memakai jaket kuning.,Mahasiswa itu mahasiswa UI.,Mahasiswa itu mahasiswa ITB.,cause,269,0
+Dosen itu kolestrolnya naik.,Dosen itu baru saja makan gado-gado.,Dosen itu baru saja makan rendang.,cause,270,1
+Orang itu disebut tinggal di luar planet.,Orang itu tinggal di Kemang.,Orang itu tinggal di Bekasi.,cause,271,1
+Orang itu memilih untuk ke Bandara Halim dibandingkan Bandara Soekarno Hatta.,Orang itu tinggal di Tangerang.,Orang itu tinggal di Jakarta Timur.,cause,272,1
+Orang itu meminum Tolak Angin.,Orang itu tidak sehat.,Orang itu ingin kuat di daerah berangin.,cause,273,0
+Ada kendaraan memutar audio digoreng dadakan.,Penjualnya menandakan berjualan tahu bulat.,Penjualnya menandakan berjualan makanan siap saji.,cause,274,0
+Orang itu membutuhkan KBBI.,Orang itu ingin mengecek ejaan tulisan bahasa indonesianya.,Orang itu ingin mengecek pengetahuan budaya Indonesia.,cause,275,0
+Buah itu disemuti oleh semut hitam.,Buat Rambutan itu dibiarkan terbuka di meja makan.,Buah pisang itu dibiarkan terbuka di meja makan.,cause,276,0
+Orang itu berdagang secara online di Indonesia.,Orang itu berdagang di Amazon.,Orang itu berdagang di Tokopedia.,cause,277,1
+Seorang kontestan Masterchef dimarahi.,Jurinya yaitu Chef Renata.,Jurinya yaitu Chef Juna.,cause,278,1
+Langit jakarta sangat gelap.,Saat ini sedang musim dingin.,Jakarta terkena polusi udara.,cause,279,1
+Mahasiswa itu ingin berhemat.,Mahasiswa itu makan KFC tiap hari.,Mahasiswa itu makan indomie tiap hari.,effect,280,1
+Sekelompok orang tua ingin merayakan keberhasilan promosinya dengan makanan nuansa lokal.,Orang tua itu merayakan dengan memesan Pizza.,Orang tua itu merayakan dengan memesan nasi tumpeng.,effect,281,1
+Seorang pemuda pergi ke Pasar Senen di Jakarta.,Pemuda itu naik kereta commuter line.,Pemuda itu naik kereta jarak jauh.,effect,282,0
+Orang itu masuk angin.,Orang itu minum antangin.,Orang itu minum fresh tea.,effect,283,0
+Pemuda itu punggungnya pegal.,Pemuda itu pakai plaster di punggungnya.,Pemuda itu pakai koyo di punggungnya.,effect,284,1
+Seorang direktur utama di BUMN membuat postingan di grup WhatsApp.,Karyawan di grup itu merespon dengan emoticon '❤️'.,Karyawan di grup itu merespon dengan emoticon '👍'.,effect,285,1
+Orang Jakarta itu membeli tisu roll.,Tisu roll itu digunakan untuk cebok.,Tisu roll itu digunakan untuk lap.,effect,286,1
+Kelompok supporter itu mendukung Persija.,Supporter itu memakai baju biru.,Supporter itu memakai baju oren.,effect,287,1
+Warga Indonesia itu bekerja di Indonesia.,Orang itu daftar NPWP.,Orang itu daftar wajib militer.,effect,288,0
+Anak itu ingin melihat jenis-jenis binatang.,Orang itu pergi ke TMII.,Orang itu pergi ke Ragunan.,effect,289,1
+Pemuda itu suka lagu dangdut.,Pemuda itu suka mendengarkan lagu Dewi Persik.,Pemuda itu suka mendengarkan lagu Sheila On 7.,effect,290,0
+Orang itu tidak boleh makanan dingin.,Orang itu dilarang membeli Mixue.,Orang itu dilarang membeli Nasi Uduk.,effect,291,0
+"Di hari lebaran, laki-laki itu pergi ke puncak di Bogor.",Orang itu terjebak macet.,Jalanan ke puncah bogor lancar.,effect,292,0
+Perempuan itu pergi ke Gramedia.,Perempuan itu ingin membeli buku.,Perempuan itu ingin konsultasi tentang media sosial.,effect,293,0
+Bapak-bapak membuat grup komunitas untuk chatting.,Bapak-bapak itu memakai LINE.,Bapak-bapak itu memakai Whatsapp.,effect,294,1
+Orang itu perlu memeluk sesuatu saat tidur.,Orang itu membeli kucing.,Orang itu membeli guling.,effect,295,1
+Orang itu mementingkan keselematan diri.,Orang itu naik Transjakarta.,Orang itu naik Kopaja.,effect,296,0
+Masakan itu berasal dari Jawa Tengah.,Masakan itu pedas.,Masakan itu tidak pedas.,effect,297,1
+Orang itu bepergian.,Orang itu memesan dengan aplikasi Gojek.,Orang itu memesan dengan aplikasi uber.,effect,298,0
+Piring itu kotor.,Orang itu memakai sabun Nuvo untk mencucinya.,Orang itu memakai sabun Sunlight untuk mencucinya.,effect,299,1
+Anak itu memakan Nasi Padang.,Anak itu makan dengan sumpit.,Anak itu makan dengan tangan.,cause,300,1
+Pemerintah bagi-bagi sembako LPG ke orang miskin.,Orang miskin itu membutuhkannya untuk memandikan anak.,Orang miskin itu membuthkannya untuk memasak.,cause,301,1
+Seorang pengemudi ojek online ingin menurunkan penumpang.,Penumpang diturunkan di tempat pangkalan ojek.,Penumpang diturunkan di halte.,cause,302,1
+Orang Muslim Indonesia merasa aman memakan suatu makanan di restoran.,Restoran tersebut memiliki logo halal MUI.,Penjaga restorannya berjilbab.,cause,303,0
+Orang itu tiba-tiba berkata 'mari pak'.,Orang itu melewati seorang bapak.,Orang itu memberi petunjuk jalan ke bapaknya.,cause,304,0
+Ibu itu memilih untuk tidak berbelanja bahan baku di Indomart.,Ibu itu tidak bisa tawar-menawar.,Ibu itu tidak bisa mendapat diskon.,cause,305,0
+Orang itu pergi ke pijat refleksi.,Orang itu sakit flu.,Orang itu pegal-pegal.,cause,306,1
+Orang Jakarta berbaju warna oren datang ke stadium gelora bung karno .,Tim Persija sedang bertanding.,Tim Persebaya sedang bertanding.,cause,307,0
+Transjakarta biayanya menjadi RP 1.,Hari ini hari kemerdekaan Indonesia.,Hari ini ulang tahun Jakarta.,cause,308,1
+Paman ingin lebaran dan memilih pesawat Super Jet.,Paman ingin berhemat .,Paman memilih keyamanan.,cause,309,0
+Orang muslim tersebut ingin minum yang hangat-hangat.,Orang itu minum bir bintang.,Orang itu minum wedang jahe.,effect,310,1
+Anak itu dimarahi ibunya.,Anak itu selalu beli minuman panas.,Anak itu selalu beli minuman es.,effect,311,1
+Bapak Jokowi datang ke suatu pertemuan.,Tentara membungkukan badannya.,Tentara hormat kepadanya.,effect,312,1
+Hari ini lebaran idul adha.,Beberapa orang Jakarta sholat di Santa Maria.,Beberapa orang Jakarta Sholat di Istiqlal.,effect,313,1
+Ibu itu ingin merayakan kelulusan dengan nuansa padang.,Ibu itu merayakan di Restoran Sederhana.,Ibu itu merayakan di Restoran Warteg.,effect,314,0
+Saat ini berlangsung jam Istirahat Kerja kantor.,Orang orang pergi ke Waterboom.,Orang orang pergi ke Warteg.,effect,315,1
+Anak itu mengisi acara Festival Seni Budaya Bandung.,Anak itu mengisi dengan memerankan Ondel-Ondel.,Anak itu mengisi dengan memainkan Angklung.,effect,316,1
+Pegawai PNS sedang beristirahat.,Pegawai itu bermain Lompat Tali.,Pegawai itu bermain ZUMA.,effect,317,1
+Ayam itu berkokok.,Pasar Tradisional buka jam dagang.,Indomaret buka jam dagang.,effect,318,0
+Orang itu butuh kehangatan di badan.,Orang itu melumuri badannya dengan lifebouy.,Orang itu melumuri badannya dengan Vix.,effect,319,1
+Bos perusahaan itu kebakaran Jenggot.,Perusahaan itu naik daun.,Perusahaan itu pailit.,cause,320,1
+Anak itu melakukan apel pagi.,Apel pagi dilakukan karena budaya sarapan bersama dengan buah Apel.,Apel pagi dilakukan untuk menghormati kemerdekaan Indonesia.,cause,321,1
+Berita itu digoreng di media sosial.,Perusahaan AI di Indonesia merekrut seorang PHD dari luar negeri.,Perusahaan AI ternama di Indonesia melakukan pemecatan massal.,cause,322,1
+Orang itu masih hijau di dunia karir.,Orang itu badannya berwarna hijau.,Orang itu baru lulus kuliah.,cause,323,1
+Professor itu viral di Indonesia.,Professor itu terkena skandal perceraian.,Professor itu publikasi paper di konferensi internasional.,cause,324,0
+Orang itu keras kepala.,Orang itu susah diajak kerjasama.,Orang itu bisa bertengkar dengan kepalanya.,effect,325,0
+Anak itu sangat aneh gerak-geriknya.,Anak itu menjadi kuda hitam tetangga.,Anak itu menjadi buah bibir tetangga.,effect,326,1
+Kita berdua memilih untuk empat mata.,Mereka membeli kacamata.,Mereka menuju ke tempat yang enak untuk berdiskusi.,effect,327,1
+Karyawan itu ingin mendapatkan promosi.,Karyawan itu cari muka ke pemimpinnya.,Karyawan itu rendah hati ke pemimpinnya.,effect,328,0
+Pria itu berhidung belang.,Pria itu disukai wanita.,Pria itu dibenci wanita.,effect,329,1
+Banyak orang segan membeli rumah tersebut.,Rumah itu dikenal sebagai rumah tusuk sate.,Posisi rumah tersebut menghadap utara.,cause,330,0
+mereka berjanji untuk bertemu sebelum magrib.,mereka bertemu pukul 19.00.,mereka bertemu pukul 17.00.,cause,331,1
+Dia membuat lontong.,Dia memiliki daun kelapa muda.,Dia memiliki daun pisang.,cause,332,1
+Di depan rumahnya terpasang bedera kuning.,Ada keluarganya yang berulang tahun.,Ada keluarganya yang meninggal.,cause,333,1
+"Di depan gedung itu, terpasang janur kuning yang melengkung.",Ada acara pernikahan di gedung itu.,Ada acara ulang tahun di gedung itu.,cause,334,0
+Dia nyeker di pasar.,Ia membeli ceker di pasar.,Sandal yang ia pakai rusak.,cause,335,1
+"Kemarin malam, ia baru selesai jaga lilin.",ia adalah orang yang taat beribadah.,ia percaya dengan ilmu hitam.,cause,336,1
+Nama belakangnya adalah Hutabarat.,Ia adalah orang Batak.,Ia adalah orang Minang.,cause,337,0
+Wanita berhijab itu baru saja meninggal.,Jasad wanita itu akan dimakamkan.,Jasad wanita itu akan dibakar.,effect,338,0
+laki-laki itu dikenal sebagai buaya darat.,laki-laki itu adalah orang yang setia.,laki-laki itu suka selingkuh.,cause,339,1
+Dia dikenal sebagai orang yang ngaret.,Dia suka bermain karet.,Dia suka datang telat.,cause,340,1
+Wanita itu sedang datang bulan.,Wanita itu pulang istirahat di rumah.,Wanita itu pergi beribadah ke pura.,cause,341,0
+Ia memakai masker.,Ia akan mengendarai motor di kota.,Ia ingin terlihat gaul .,cause,342,0
+Ia berusaha menjadi orang yang tidak serakah.,Ia mengamalkan pesan moral Sang Kuriang.,Ia mengamalkan pesan moral bawang merah bawang putih.,cause,343,1
+Namanya keluar di arisan.,Ia pergi makan mewah.,Ia diawasi pegawai pajak.,effect,344,0
+Banyak orang mulai flu saat ini.,Banyak orang berjemur di pantai pada siang hari.,Sekarang memasuki musim pancaroba.,cause,345,1
+Mereka ingin bermain cangkulan.,Mereka pergi ke sawah.,Mereka mengambil kartu.,effect,346,1
+Petani mulai menanam padi.,Sekarang memasuki musim hujan.,Sekarang memasuki musim kemarau.,cause,347,0
+Ia mengikuti remedial.,Ia ingin mengerjakan tugas kelompok.,Ia tidak lulus ujian.,cause,348,1
+Polisi menutup jalan di kawasan tersebut.,Terdapat aksi unjuk rasa di kawasan tersebut.,Kawasan tersebut sedang hujan.,cause,349,0
+Mereka mencium bau melati di koridor sekolah sore itu.,Mereka fokus belajar hingga malam.,Mereka bergegas pulang karena takut.,effect,350,1
+Dia merasa masuk angin.,Dia membuka jendela untuk meperbaiki sirkulasi udara.,Dia meminta tolong untuk kerokan.,effect,351,1
+Lembaga pemerintah dipenuhi dengan tikus berdasi.,Masyarakat mengeluhkan kinerja pemerintah.,Masyarakat gemar mengirim pestisida kepada pemerintah.,effect,352,0
+sekelompok pria keluar gedung pada Jumat siang.,mereka pergi ke masjid.,Mereka pulang ke rumah.,effect,353,0
+Kristian hendak beribadah pada hari minggu.,Kristian pergi ke mushola.,Kristian pergi ke gereja.,effect,354,1
+Ia tidak mau menjadi Malin Kundang.,Ia berbakti kepada orang tua.,Ia belajar dengan giat.,effect,355,0
+BMKG mengumumkan Merapi siaga 4.,Masyarakat diperbolehkan kembali ke rumah.,Masyarakat bergegas mengungsi.,effect,356,1
+Hari ini akan diadakan apel pagi.,Mereka membawa keranjang buah.,Mereka memakai dasi dan topi.,effect,357,1
+Rumah makan itu menyajikan makanan dengan air koborkan.,Mereka marah-marah ke pemilik rumah makan.,Mereka makan dengan tangan.,effect,358,1
+Hari ini tanggal tujuh belas Agustus.,Para murid pergi ke sekolah untuk menghadiri upacara.,Para murid pergi ke sekolah untuk belajar.,effect,359,0
+Pasangan itu baru saja melahirkan seorang bayi.,Sang ayah menguburkan ari-ari.,Sang ibu mandi kembang tujuh rupa.,effect,360,0
+Ia pergi mudik ke kampung halaman.,Ia bertemu kepala desa.,Ia bertemu sanak saudaranya.,effect,361,1
+Ia pulang dengan penuh keringat.,Ia bergegas mandi.,Ia bergegas mencuci pakaian.,effect,362,0
+Terdapat banyak nilai merah di rapot nya.,Orangtuanya menyuruh ia belajar lebih giat.,Orangtuanya mengajak ia jalan-jalan liburan.,effect,363,0
+Mereka akan mendaftarkan pernikahannya.,Mereka pergi ke DPR.,Mereka pergi ke KUA.,effect,364,1
+Ia pergi berlibur.,Sekarang memasuki musim panas.,Hari ini tanggal merah.,cause,365,1
+Ia melihat polisi tidur.,Ia memelankan laju kendaraan.,Ia membangunkan polisi.,effect,366,0
+Kepala desa membuat jadwal siskamling.,Mereka menyelenggarakan perlombaan di siang hari.,Mereka menjaga keamanan di malam hari.,effect,367,1
+Adik tidak ingin nasinya menangis.,Adik tidak makan nasi.,Adik menghabiskan makanannya.,effect,368,1
+Mereka merayakan lebaran.,Mereka shalat dan mengunjungi keluarga.,Mereka berjalan-jalan ke luar negeri.,effect,369,0
+Ibu menyalakan keran dan selang.,Ibu akan mencuci pakaian.,Ibu akan menyiram tanaman.,cause,370,1
+Mereka merayakan tahun baru dua jam lebih cepat dariku.,Mereka tinggal di Jakarta dan aku tinggal di Bali.,Mereka tinggal di Papua dan aku tinggal di Medan.,cause,371,1
+Hari ini ia pergi ke sekolah menggunakan seragam berwarna coklat.,Hari ini adalah Hari Pancasila.,Hari ini ada kegiatan pramuka.,cause,372,1
+Dia memakai seragam merah putih.,Dia adalah murid SD.,Dia adalah seorang TNI.,cause,373,0
+Ia memesan taxi untuk pergi ke Soekarno-Hatta.,Ia akan naik pesawat.,Ia akan bertemu presiden.,cause,374,0
+Ia mengeluarkan uang kertas berwarna pink.,Ia memesan makanan seharga seratus ribu rupiah.,Ia membeli gorengan seharga seribu rupiah.,cause,375,0
+Ayah membeli bidet baru.,Ayah akan merenovasi toilet.,Ayah akan merenovasi dapur.,cause,376,0
+Mereka membeli kelereng.,Mereka akan bermain gundu.,Mereka akan bermain congklak.,cause,377,0
+Mereka membeli karet gelang.,Mereka ingin bermain lompat tali.,Mereka ingin bermain gasing.,cause,378,0
+Ia akan membuat sate bakar.,Ia memanaskan oven.,Ia mengambil arang dan pemanggang.,cause,379,1
+Ia berfoto di depan monumen hiu dan buaya.,Ia berwisata ke Surabaya.,Ia berwisata ke Manado.,cause,380,0
+Dia ingin makan manis.,Dia membeli klepon.,Dia membeli rempeyek.,cause,382,0
+Dia ingin makan babi panggang.,Dia pergi ke restoran lapo batak.,Dia pergi ke rumah makan padang.,cause,383,0
+Banyak mobil dengan plat B memenuhi jalanan Bogor.,Penduduk Bogor sedang berjalan-jalan di akhir pekan.,Banyak orang Jakarta pergi berlibur ke Bogor.,cause,384,1
+Ia pergi menggunakan kendaraan beroda tiga.,Ia menaiki ojek.,Ia menaiki bajaj.,cause,385,1
+Ia membeli tempe.,Ia mencari sumber protein murah.,Ia mencari sumber karbohidrat murah.,cause,386,0
+Ia memesan gado-gado.,Ia suka makan daging sapi.,Ia suka makan sayur.,cause,387,1
+Ia pergi ke Semeru.,Ia ingin berenang di laut.,Ia ingin mendaki gunung.,cause,388,1
+Ia membeli sekoteng.,Siang ini cuaca sangat panas.,Malam ini udara terasa dingin.,cause,389,1
+BJ Habibi adalah idolanya.,Ia mencari beasiswa ke German.,Ia mencari kerja ke Singapura.,effect,390,0
+Langit-langit rumah terlihat sangat berdebu.,Ia mengambil kemoceng.,Ia mengambil sapu lidi.,effect,391,0
+Ayah memiliki kakaktua.,Ayah memberi makan burung peliharaanya setiap pagi.,Ayah membawa kakak mengungjungi doktor.,effect,392,0
+Bank itu memberi bunga yang tinggi.,Ia membeli vas baru.,Uang di tabungannya bertambah.,effect,393,1
+"Setiap akhir pekan, kakak bekerja sebagai tukang ojek.",Kakak mendorong gerobak untuk menjual makanan.,Kaka mengeluarkan motornya dari garasi.,effect,394,1
+Ia ingin mengikuti jejak Susi Susanti.,Ia berlatih dengan giat menggunakan raket dan kok.,Ia pergi ke kolam renang setiap hari.,effect,395,0
+Ia masuk ke gang buntu.,Ia terus berjalan hingga menemukan jalan besar.,Ia putar arah untuk keluar.,effect,396,1
+Ia ingin mendaki Gunung Bromo.,Ia pergi ke Kota Lampung.,Ia pergi ke Kota Surabaya.,effect,397,1
+Dia memesan menu internet di warkop.,Dia minum kopi.,Dia makan mie.,effect,398,1
+Perilaku orang tersebut seperti anjing.,banyak orang yang suka dengannya.,banyak orang yang tidak suka dengannya.,effect,399,1
+"Pagi ini, ia memakai pakaian putih abu-abu.",Ia pergi ke Mall.,Ia pergi ke SMA.,effect,400,1
+Ia akan memasak ketupat.,Ia membeli daun pisang dan kentang.,Ia membeli daun kelapa dan beras.,effect,401,1
+Mereka pakai obat anti nyamuk.,Mereka pergi ke sungai di siang hari.,Mereka pergi ke kebun di malam hari.,cause,402,1
+Ia ingin melihat terumbu karang.,Ia pergi ke berenang ke pantai.,Ia pergi belanja ke supermarket.,effect,403,0
+Ia kecopetan.,Ia mendapat bunga.,Barangnya hilang.,effect,404,1
+Ia ingin melihat padi.,Ia pergi ke sawah.,Ia pergi ke kebun.,effect,405,0
+Ia ingin melihat kuda.,Ia menaiki becak.,Ia menaiki delman.,effect,406,1
+Ia ingin berenang di laut.,Ia pergi ke Taman Nasional Kelimutu.,Ia pergi ke Taman Nasional Bunaken.,effect,407,1
+Mereka akan memasak rawon.,Mereka membeli biji keluak.,Mereka membeli kacang kedelai.,effect,408,0
+Mereka ingin melihat api biru.,Mereka pergi ke Ijen.,Mereka pergi ke Bromo.,effect,409,0
+Tsunami 2004 menghancurkan rumahnya.,"Pada tahun 2004, ia tinggal di Jakarta.","Pada tahun 2004, ia tinggal di Aceh.",cause,410,1
+Jari kelingkingnya dilumuri tinta.,Ia baru selesai menyoblos pemilu.,Ia baru selesai menabung uang di bank.,cause,411,0
+Pria itu tidak percaya mitos Pantai Selatan.,Pria itu membawa tas putih.,Pria itu memakai baju hijau.,cause,412,1
+Ia berangkat bekerja menggunakan seragam berwarna coklat.,Ia adalah seorang karyawan swasta.,Ia adalah seorang PNS.,cause,413,1
+Ia memasak ketupat dan opor ayam.,Sebentar lagi akan Idul Fitri.,Sebentar lagi akan tahun baru.,cause,414,0
+Mereka menyanyikan lagu Indonesia Raya.,Mereka mengikuti upacara bendera.,Mereka berwisata ke museum.,cause,415,0
+Mereka masuk ke jalan tikus.,Jalanan hari ini sangat macet.,Mereka ingin membasmi tikus.,cause,416,0
+Mereka memasang bendera merah putih di rumah.,Saat ini bulan Januari.,Saat ini bulan Agustus.,cause,417,1
+Perempuan itu membawa mukena.,Perempuan itu akan pergi shalat.,Perempuan itu akan berulang tahun.,cause,418,0
+Mereka pergi ke Gunung Tangkuban Perahu.,Mereka ingin mengunjungi lokasi cerita Sangkuriang.,Mereka ingin mengunjungi lokasi cerita Timun Mas.,cause,419,0
+Ia ingin sarapan.,Ia membeli sate taican.,Ia membeli nasi uduk.,effect,420,1
+Pelayan menaruh mangkuk kecil berisi air dengan potongan limau.,ia mencuci tangan dengan air itu.,ia meminun air itu.,effect,421,0
+Mereka akan pergi ke Kota Tua siang ini.,Mereka membawa topi.,Mereka memakai mantel.,effect,422,0
+Mereka ingin belajar musik tradisional Indonesia.,Mereka belajar gamelan.,Mereka belajar biola.,effect,423,0
+Perempuan Jawa itu akan menikah.,Perempuan itu berlatih piano.,Perempuan itu membeli kebaya.,effect,424,1
+Adzan Magrib mulai dikumandangkan .,Saat ini sekitar pukul delapan malam.,Saat ini sekitar pukul enam sore.,effect,425,1
+"Dari Jakarta, ia ingin ke Surabaya dengan cepat.",Ia membeli tiket kereta.,Ia membeli tiket pesawat.,effect,426,1
+Ia membeli tiket bus.,"Dari Bekasi, ia ingin ke Semarang dengan murah.","Dari Palembang, ia akan ke Pontianak dengan cepat.",cause,427,0
+Jalanan becek akibar hujan.,Ia pergi menggunakan sandal jepit.,Ia pergi menggunakan sepatu boot.,effect,428,0
+Ia mencari oleh-oleh kain khas Indonesia.,Ia membeli kimono.,Ia membeli batik.,effect,429,1
+ia buang air besar.,perutnya mulas.,rumahnya kebanjiran.,cause,430,0
+Ia pergi ke salon untuk sulam alis.,Ia ingin belajar menyulam.,ia ingin terlihat lebih cantik.,cause,431,1
+Kakak kesal karena adik terus membeo.,Adik membawa burung beo.,Adik mengulang perkataan kakak.,cause,432,1
+Ia dibawa ke kantor polisi akibat mencuri televisi.,Ia tertangkap basah membawa televisi.,Ia membawa televisi dengan tangan merah.,cause,433,0
+ia memiliki banyak teman.,ia dikenal sebagai orang yang rendah hati.,ia dikenal sebagai orang yang tinggi hati.,cause,434,0
+Ia menyelesaikan konflik tersebut dengan kepala dingin.,Ia mengeringkan kepalanya yang basah.,Banyak orang mengapresiasi kesabaranya.,effect,435,1
+Ia melihat pedagang kaki lima di pinggir jalan.,Ia menelpon polisi untuk menangkap pedagang itu.,Ia menghampiri pedagang dan membeli makanan.,effect,436,1
+Rumahnya ditelan si jago merah.,Ia memanggil pemadam kebakaran.,Ia memanggil dukun pengusir setan.,effect,437,0
+kasus perceraian tersebut didiskusikan di meja hijau.,mereka membeli meja baru.,mereka membayar pengacara.,effect,438,1
+perempuan itu pulang kampung setelah berbadan dua.,banyak orang meminta bantuannya karena mampu bekerja cepat .,tetangganya mencibir perilaku perempuan itu.,effect,439,1
+"Sepulang sekolah, anak itu dimarahi oleh ayahnya.",Dia lupa cium dahi ayah sebelum berangkat sekolah.,Dia lupa cium tangan ayah sebelum berangkat sekolah.,cause,440,1
+Laki-laki itu masuk rumah sakit karena kakinya tersayat pisau dan luka parah.,Dia kurang hati-hati saat ikut tarkam.,Dia kurang hati-hati saat main sabung ayam.,cause,441,1
+Pagi ini ada bus antarkota lewat di depan rumahku.,Anak-anak merubungi bus tersebut minta menumpang ke luar kota.,Anak-anak merubungi bus tersebut minta dimainkan lagu klakson.,effect,442,1
+Tetangga sebelah tiba-tiba kaya.,Teman-temannya mengira dia memelihara babi ngepet.,Teman-temannya mengira dia memelihara ayam kampus.,effect,443,0
+Laki-laki itu dianggap sebagai preman di kampung ini.,Laki-laki itu sering menagih uang keamanan.,Laki-laki itu sering menagih uang kebersihan.,cause,444,0
+Orang itu suka sekali membeli kretek.,Dia terkilir.,Dia terkena sakit paru-paru.,effect,445,1
+Dia dijuluki genderuwo di sekolah.,Dia bongsor.,Dia suka mengganggu teman-temannya.,cause,446,0
+Nenek telah lama bekerja sebagai tukang urut.,Nenek jadi sangat pandai memijat.,Nenek jadi sangat pandai berhitung.,effect,447,0
+Bibi kesulitan menggendong si adik bayi.,Bibir Bibi sobek.,Selendang Bibi sobek.,cause,448,1
+Gigi kakek patah saat makan nasi.,Ada kerikil yang tersembunyi di karung beras.,Ada udang yang tersembunyi di karung beras.,cause,449,0
+Perempuan itu sangat malas naik angkot.,Angkot terlalu sering mengetem.,Angkot terlalu sering mengebut.,cause,450,0
+Kolesterol pak haji naik parah.,Dia terlalu semangat merayakan idul adha.,Dia terlalu semangat merayakan tahun baru Islam.,cause,451,0
+Hari ini kami merayakan lebaran haji.,Kulkas kami penuh dengan daging.,Kulkas kami penuh dengan ketupat.,effect,452,0
+Kakinya diperban karena luka bakar.,Dia tidak sengaja terkena knalpot.,Dia jatuh ke atas kompor.,cause,453,0
+"Adik menangis karena, setelah diperiksa, handphonenya diambil ayah.",Dia ketahuan banyak koleksi 3gp.,Dia ketahuan banyak koleksi mp3 bajakan.,cause,454,0
+Ia adalah anak yang paling pendek di kelas.,"Saat upacara bendera, ia berdiri paling depan.","Saat upacara bendera, ia berdiri paling belakang.",effect,455,0
+"Saat menyetir, Bapak terkena jebakan batman.",Dia rugi harus membayar uang pelicin.,Dia rugi harus membayar uang berobat.,effect,456,0
+"Setelah melahirkan, ibu itu bingung karena dia tinggal di apartemen.",Dia takut anaknya takut ketinggian.,Dia ingin mengubur ari-ari anaknya.,cause,457,1
+Aku dan istriku sedang terjebak macet.,"Dia mengeluh, ""Aku ingin mesin waktu."".","Dia mengeluh, ""Aku ingin pintu ke mana saja."".",effect,458,1
+Pelayan itu membawakan bejana berisi air dengan irisan jeruk nipis.,Aku menyegarkan dahaku dengan meminum air jeruk nipis.,Aku mencuci tanganku menggunakan kobokan itu.,effect,459,1
+Tanteku sedang butuh uang dengan cepat.,Ia membuka rekening bank.,Ia membuka akun pinjol.,effect,460,1
+"Seorang ibu-ibu pemotor tidak berhelm, tanpa lampu sen, menabrak sebuah mobil.",Ibu itu mengomeli pengemudi mobil.,Ibu itu langsung meminta maaf dan bersedia mengganti rugi.,effect,461,0
+Dia mengikuti kompetisi penyampaian kuliah tujuh menit.,Dia mengikuti seleksi ketua rohis.,Dia mengikuti seleksi masuk mahasiswa.,cause,462,0
+"Di musim penghujan ini, kampungku sedang mengadakan fogging.",Pemerintah ingin membasmi demam berdarah.,Pemerintah ingin membasmi malaria.,cause,463,0
+Seorang ahli nujum memperkirakan rumah sakit ini dihantui oleh suster ngesot.,Mata batinnya melihat ada noda darah di pintu ruang operasi.,Mata batinnya melihat ada noda darah terseret-seret di lantai.,cause,464,1
+Ayah gundah apakah ia harus membawa mobilnya ke tempat cuci sekarang.,Cuaca sedang terik menyengat.,Cuaca sedang mendung gelap.,cause,465,1
+Kakaknya tertangkap basah saat ujian.,Ia ketahuan ikut sebagai calo.,Ia ketahuan ikut sebagai joki.,cause,466,1
+Kakak mengikuti kompetisi olahraga gerak jalan.,Kakak mengenakan seragam sekolahnya.,Kakak mengenakan pakaian olahraganya.,effect,467,0
+Ibu takut sakit saat melahirkan.,Ibu memilih untuk melahirkan normal.,Ibu memilih untuk operasi sesar.,effect,468,1
+Seorang satpam sedang lapar saat berjaga.,Dia ke warteg membeli ikan salmon.,Dia ke warteg membeli ikan kembung.,effect,469,1
+Seorang tukang jamu digerebek oleh polisi.,Ia membuat jamu khusus dewasa.,Ia membuat miras oplosan.,cause,470,1
+Tarkam di daerah ini dilarang oleh polisi.,Polisi sedang menyelediki kasus korupsi penyelanggara kompetisi.,Tarkam sering berujung tawuran.,cause,471,1
+Ia terkenal sebagai mahasiswa yang kuliah pulang kuliah pulang.,Ia mendapatkan nilai yang buruk.,Ia tidak banyak teman di luar perkuliahan.,effect,472,1
+Ibu-ibu desa itu mengomel-omel setelah pulang dari restoran steak yang mahal ini.,Ia memesan steak well-done dan teksturnya terlalu keras.,Ia memesan steak rare tapi rasanya tidak enak.,cause,473,0
+Kakak perempuanku yang berumur 25 tahun pergi ke pernikahan sepupunya.,Ia ditanya-tanya gandengannya mana.,Ia ditanya-tanya agamanya apa.,effect,474,0
+Dia adalah anak anggota rohis kampus.,"Di kampus, dia mengenakan tasbih.","Di kampus, dia mengenakan celana semata kaki.",effect,475,1
+Dia adalah anak yang rajin ke gereja.,Dia pintar mengaji.,Dia pintar bernyanyi.,effect,476,1
+Saldo e-money-nya habis.,Ia tertahan di hotel.,Ia tertahan di area parkir.,effect,477,1
+Almarhumah dikenal sebagai pejuang agama yang baik.,Banyak warga yang hadir untuk takbiran.,Banyak warga yang hadir untuk yasinan.,effect,478,1
+Adikku dan teman-temannya mengenakan pakaian adat di sekolahnya.,Hari ini mereka merayakan Tujuhbelasan.,Hari ini mereka merayakan Kartinian.,cause,479,1
+Listrik di rumah mati.,PDAM menghentikan servis.,PLN sedang melakukan pemadaman.,cause,480,1
+Kakak pergi ke bengkel Yamaha.,Piano kakak rusak.,Motor kakak rusak.,cause,481,1
+Malam-malam begini saya kelaparan.,Saya keluar berburu nasi uduk warteg.,Saya keluar berburu nasi kucing angkringan.,effect,482,1
+Ia dijuluki sebagai budak kapitalis.,Ia bekerja di SCBD.,Ia bekerja sebagai ART.,cause,483,0
+Kakak sangat senang olahraga murah di Senayan.,Hari ini dia pergi main bola di sana.,Hari ini dia pergi jogging di sana .,effect,484,1
+Adik dihukum di sekolah.,Dia ketahuan banyak menyimpan banyak foto Kota Bandung.,Dia ketahuan banyak menyimpan banyak foto Chika Bandung.,cause,485,1
+Sate kambing yang saya beli tadi rasanya hambar.,Bumbu kecapnya tumpah semua.,Bumbu saus bbq-nya tumpah semua.,cause,486,0
+Dia sering mendapatkan nilai jelek di kelasnya.,"Ibunya marah, ""Kamu mau jadi Nobita?"".","Ibunya marah, ""Kamu mau jadi Conan?"".",effect,487,0
+Adik pergi ke dokter karena sakit gigi.,Dia terlalu sering jajan ke Burger King.,Dia terlalu sering jajan ke J.Co.,cause,488,1
+Pak RT dianggap sebagai orang yang cukup kaya.,Dia membawa mobil Avanza.,Dia membawa mobil Fortuner.,cause,489,1
+Pak RW adalah seorang hipster.,Dia memilih untuk membeli mobil BMW.,Dia memilih untuk membeli mobil Volkswagen.,effect,490,1
+Besok adik akan mengikuti SNMPTN.,Adik merasa gugup.,Adik merasa senang.,effect,491,0
+"Di lampu merah, ada mas-mas yang berjualan Kompas.",Beberapa pengemudi membeli karena tidak ingin tersasar.,Beberapa pengemudi membeli karena ingin mengikuti berita.,effect,492,1
+Ibu tengah menyemprot rumah dengan anti nyamuk.,Rumahku bau Baygon.,Rumahku bau Autan.,effect,493,0
+Pegawai kantor itu tidak punya BPJS.,Ia jatuh sakit.,Kantornya diaudit dan ditindak oleh pemerintah.,effect,494,1
+Pandemi COVID-19 menyebabkan banyak ASN bekerja dari rumah.,Mereka melakukan pertemuan daring menggunakan Zoom.,Mereka melakukan pertemuan daring menggunakan Teams.,effect,495,0
+Rumah paman banyak dipasang gambar hewan bermoncong putih.,Paman adalah kader Demokrat.,Paman adalah kader PDIP.,cause,496,1
+Di ruas jalan itu sedang diberlakukan contraflow.,Pemerintah ingin Busway jalannya lancar.,Pemerintah ingin menghindari macet.,cause,497,1
+Anak itu tidak lulus ujian praktek Penjaskes.,Ia lari terlalu lambat.,Jawabannya terlalu banyak yang salah.,cause,498,0
+Kakak malas mengurus STNK sendiri.,Ia membayar calo.,Ia membayar joki.,effect,499,0
+Majapahit adalah kerajaan terbesar dalam sejarah Indonesia.,Raja Gajah Mada dengan Sumpah Palapanya berhasil menguasai Nusantara.,Raja Hayam Wuruk berhasil berekspansi ke penjuru Nusantara.,cause,500,1
+Anak itu sering sekali makan Indomie.,Ibunya membelikan makin banyak Indomie agar anaknya bisa makan Indomie setiap hari.,"Saat ujiannya jelek, Ibunya bilang dia bodoh karena terlalu banyak makan Indomie.",effect,501,1
+Perempuan itu sampai ke puncak Gunung Ijen.,Ia lalu memikul berkilo-kilo belerang turun gunung.,Ia tersedak bau belerang yang menyengat.,effect,502,1
+Ia sedang ingin makanan Jepang.,Ia memesan Kintan.,Ia memesan Hokben.,effect,503,1
+Banyak orang yang suka berbelanja di Shopee.,Kualitas barang lebih baik di Shopee.,Banyak promo di Shopee.,cause,504,1
+Toko ini kehabisan stok ayam.,CFC baru saja memborong semuanya.,Mixue baru saja memborong semuanya.,cause,505,0
+Toko ini menjual alkohol.,MUI menggerebek toko tersebut.,FPI menggerebek toko tersebut.,effect,506,1
+Adik tinggal di bawah SUTET.,Dia terpapar radiasi penyebab kanker.,Dia terpapar polusi penyebab kanker.,effect,507,0
+Budi kecewa saat membeli tahu sumedang di toko itu.,Cabai hijaunya habis.,Cabai merahnya habis.,cause,508,0
+Ibu membeli santan di pasar.,Ibu ingin memasak opor ayam.,Ibu ingin memasak Soto Madura.,cause,509,0
+Saya mau beli salonpas.,Saya kegerahan.,Saya sakit pinggang.,cause,510,1
+Bapak ingin menjalani hidup yang halal.,Bapak menabung di BSI.,Bapak menabung di MUI.,effect,511,0
+Pak Haji bertanya-tanya apakah makanan hari ini halal.,Ia disuguhi bakmi medan.,Ia disuguhi bubur ayam cirebon.,cause,512,0
+Nenek tidak suka makan sashimi.,Nenek punya prasangka terhadap makanan laut.,Nenek punya prasangka terhadap makanan mentah.,cause,513,1
+Ia gatal-gatal setelah makan sup asparagus.,Ia alergi makanan laut.,Ia alergi jamur.,cause,514,0
+Temanku sehari minum kopi banyak sekali.,Ia diwanti-wanti berhati-hati agar tidak seperti Mbah Surip.,Ia diwanti-wanti berhati-hati agar tidak seperti Ivan Gunawan.,effect,515,0
+Saya ingin naik taksi online mercy.,Saya memesan melalui aplikasi Blue Bird.,Saya memesan melalui aplikasi Gojek.,effect,516,0
+Kerja SAMSAT tersendat dalam memroses banyaknya pembelian mobil pribadi baru.,Samsat kehabisan cat berwarna merah.,Samsat kehabisan cat berwarna putih.,cause,517,1
+Aksi damai mengenang pahlawan reformasi menghambat lalu lintas di lokasi.,Area Jakarta Barat macet parah.,Area Jakarta Selatan macet parah.,effect,518,0
+Pada tanggal 4 Juni kemarin restoran di mall banyak yang ramai.,Standard Chartered sedang menawarkan banyak promo.,BNI sedang menawarkan banyak promo.,cause,519,1
+Adik sedih setelah membeli telur gulung di depan sekolah.,Telurnya lepas dari sunduknya.,Penjualnya kehabisan garpu untuk makannya.,effect,520,0
+Air minum di rumah habis.,Kakak disuruh ibu beli galon.,Kakak disuruh ibu menelpon PDAM.,effect,521,0
+Adik senang makanan hari ini.,Menu makanannya ikan kaleng ABC yang enak.,Menu makanannya kecap ABC yang enak.,cause,522,0
+Paman hobi main domino.,Dia kehabisan uang karena terlalu sering beli pizza.,Dia kehabisan uang karena dipakai judi.,effect,523,1
+Kakak maju menjadi calon ketua OSIS.,Dia ingin eksis.,Dia ingin pintar.,cause,524,0
+"Walaupun murah, warung bakso itu sepi pembeli.",Beredar isu maraknya bakso tikus.,Beredar isu maraknya bakso sapi.,cause,525,0
+Warung soto di pojokan selalu ramai dan rasanya sangat enak.,Warung itu digosipkan memakai MSG.,Warung itu digosipkan memakai penglaris.,effect,526,1
+"Adik sedang memesan bakso, tapi dia sedang ingin hidup sehat.","Dia berteriak, ""Jangan pakai micin ya bang!"".",Dia lari tanpa membayar baksonya.,effect,527,0
+Bapak hendak berangkat sholat Jumat.,Ibu menitip uang tunai untuk celengan masjid.,Ibu menitip GoPay untuk infaq masjid.,effect,528,0
+Kakak sedang latihan Paskibra.,Kakak hendak merayakan sumpah pemuda.,Kakak hendak merayakan dirgahayu Republik Indonesia.,cause,529,1
+Kakek adalah alumni 212.,Dia akan mengadiri reuni akbar di Monas.,Dia akan mengikuti cosplay menjadi Wiro Sableng.,effect,530,0
+Paman suka mengoleksi replika kapak 212.,Dia ingin membawa kapak itu pada reuni akbar 212 di Monas. .,Dia ingin membawa kapak itu untuk cosplay Wiro Sableng.,effect,531,1
+Anak SMA itu membawa sabit di dalam tasnya.,Anak itu ingin ikut tawuran.,Anak itu ingin memotong rumput.,cause,532,0
+Anak SD Negeri itu berangkat sekolah di hari senin.,Dia tidak lupa memakai dasi merah.,Dia tidak lupa memakai topi merah.,effect,533,1
+"Setiap tahun, seringkali tetanggaku merayakan Idul Qurban sehari lebih awal.",Dia adalah penganut Muhammadiyah.,Dia adalah penganut NU.,cause,534,0
+Ayah pulang malam selepas main karambol.,"Tangannya kotor, banyak debu kelabu seperti Tiga Roda.","Tangannya kotor, banyak debu putih seperti Rose Brand.",effect,535,1
+"Setelah pulang, sang suami dimarahi oleh sang istri.",Ia baru pulang dari Gunung Kemukus.,Ia baru pulang dari Gunung Bromo.,cause,536,0
+"Di tengah Ospek, para mahasiswa baru dimarahi oleh seniornya.",Mereka dianggap tidak kompak.,Mereka tidak mengerjakan tugas kuliah.,cause,537,0
+"Pada 17 Juli, aku mengendarai mobil dengan plat nomor N9EWE ke jalanan utama Jakarta.",Aku diberhentikan karena plat nomorku vulgar.,Aku diberhentikan karena aturan ganjil-genap.,cause,538,0
+Lebaran haji sudah dekat.,Jokowi membeli sapi ukuran 250 Kg.,Jokowi membeli sapi ukuran 997 Kg.,effect,539,1
+Ayah sedang kebakaran jenggot.,Jenggot ayah habis terbakar.,Ibu mencoba menenangkan Ayah.,effect,540,1
+"Tahun lalu, kambing di peternakan paman ada 6 ekor, tapi hari ini sudah 10 ekor saja.",Kambing adalah hewan yang berkembang biak.,Kambing adalah hewan pemamah biak.,cause,541,0
+Ia ragu-ragu saat ingin membeli komputer bekas secara daring tanpa foto ataupun video yang jelas.,Ia tidak mau membeli kucing dalam karung.,Ia tidak mau membeli laptop dalam gelap.,cause,542,0
+Pekerjaannya terasa seperti menegakkan benang basah.,Ia menyerah.,Ia tenggelam.,effect,543,0
+Aku sedang membantu kakek yang kesulitan mengurus sumur dan ladangnya yang kotor.,Aku senang karena ini adalah ladang amal.,Aku senang karena jadi bisa menumpang mandi.,effect,544,0
+Ia malu karena merasa dia dan kakaknya bagaikan bumi dan langit.,Prestasi sekolahnya jauh lebih buruk daripada kakaknya.,Dia adalah seorang astronot sementara kakaknya adalah CEO.,cause,545,0
+Paman membayar temannya untuk mencarikan kambing hitam untuk peristiwa itu.,Paman terlibat kasus konspirasi.,Teman paman kambingnya kabur.,cause,546,0
+Kakak sedang mencari tambatan hati.,Kakak mengunduh aplikasi temu jodoh.,Kakak mengunduh aplikasi olshop untuk membeli tali.,effect,547,0
+Di hari yang kelabu ini seluruh warga tengah berkumpul untuk memberikan penghormatan.,Rintik dari mendungnya hujan sesekali terdengar.,Isak tangis sesekali pecah terdengar.,effect,548,1
+Adik hari ini tengah mengikuti reuni sekolahnya.,Ia menemukan cinta lama yang bersemi kembali.,Ia menemukan api lama yang belum pernah padam.,effect,549,0
+Adik menggunakan rumus abc.,Adik sedang belajar alfabet.,Adik sedang mengerjakan soal matematika.,cause,550,1
+Kakek suka sambil menyelam minum air.,Pekerjaan kakek seringkali cepat selesai semuanya.,Kakek sering tersedak air.,effect,551,0
+Papa dimarahi mama karena terlalu boros.,Hidupnya besar pasak daripada tiang.,Hidupnya seperti gali lubang tutup lubang.,cause,552,0
+Adik mendengar petir di siang bolong.,Adik panik dan bingung harus berbuat apa.,Adik terkejut dan bersembunyi di balik kakak.,effect,553,0
+Ia adalah penyelam yang memiliki jam terbang yang tinggi.,Ia sudah makan asam garam di 20 laut di 5 benua.,"Selain sertifikat menyelam, dia sudah lama memiliki sertifikat penerbang.",cause,554,0
+"Akibat cedera, dengan sedih hati pemain bola itu memikirkan untuk mengakhiri karirnya.",Ia memutuskan untuk gantung diri.,Ia memutuskan untuk gantung sepatu.,effect,555,1
+Kakak berberat hati mendonorkan hatinya untuk ayah.,Kakak hatinya bengkak dan berat karena kelainan.,Kakak takut operasi.,cause,556,1
+Kampung ini penuh dengan sampah masyarakat.,Banyak residivis pindah ke sini.,Banyak warga buang sampah sembarangan di sini.,cause,557,0
+Dia adalah preman yang bolak-balik masuk penjara.,Dia dianggap sebagai kanker sosial.,Dia dianggap sebagai sampah masyarakat.,effect,558,1
+Pertemuan ini sudah berjalan lama sekali.,Pembicara berputar-putar tanpa jelas ujungnya.,Pembicara terus memukul-mukul di sekeliling semak belukar.,cause,559,0
