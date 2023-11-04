@@ -18,7 +18,7 @@ Ia dibawa ke kantor polisi akibat mencuri televisi|Ia tertangkap basah membawa t
 
 ## Data
 
-Our data can be downloaded on [Huggingface](https://huggingface.co/datasets/haryoaw/COPAL) or you can just clone this repository and get the content of `/data`.
+Our data can be downloaded on [Hugging Face](https://huggingface.co/datasets/haryoaw/COPAL) or you can just clone this repository and get the content of `/data`.
 
 1. `test_copal.csv` contains COPAL-ID
 2. `test_copal_colloquial.csv` contains the colloquial version of COPAL-ID
