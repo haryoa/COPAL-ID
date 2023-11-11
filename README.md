@@ -4,7 +4,7 @@
 
 Welcome folks! 🎉🎉
 
-This repository contains data from our research: COPAL-ID: Indonesian Language Reasoning with Local Culture and Nuances (To be Announced)! 
+This repository contains data from our research: COPAL-ID: Indonesian Language Reasoning with Local Culture and Nuances [Arxiv Link](https://arxiv.org/abs/2311.01012)! 
 
 Our dataset comprises 559 instances that tests Common Sense Reasoning (CSR). This task focuses on Indonesian local nuances and culture and is presented in COPA-style. Here are few examples of our data:
 
@@ -31,6 +31,17 @@ Further detailed information will be provided in the future!
 To be announced. Wait for us cleaning our code 🙏🙏, especially for messy stuffs. 
 
 For instance, we are cleaning stuffs that look like these: `# DONT CHANGE THIS CODE OR IT WILL BREAK`, `print('TESTTESTTEST')`, `print("CAT A MEONG MEOW")`, `how_should_i_name_this_var=123`.
+
+## Cite Our Work
+
+```
+@article{wibowo2023copal,
+  title={COPAL-ID: Indonesian Language Reasoning with Local Culture and Nuances},
+  author={Wibowo, Haryo Akbarianto and Fuadi, Erland Hilman and Nityasya, Made Nindyatama and Prasojo, Radityo Eko and Aji, Alham Fikri},
+  journal={arXiv preprint arXiv:2311.01012},
+  year={2023}
+}
+```
 
 ## Team
 
