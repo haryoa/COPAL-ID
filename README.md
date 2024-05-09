@@ -6,15 +6,32 @@ Welcome folks! 🎉🎉
 
 This repository contains data from our research: COPAL-ID: Indonesian Language Reasoning with Local Culture and Nuances [Arxiv Link](https://arxiv.org/abs/2311.01012)! 
 
-Our dataset comprises 559 instances that tests Common Sense Reasoning (CSR). This task focuses on Indonesian local nuances and culture and is presented in COPA-style. Here are few examples of our data:
+Our dataset comprises 559 instances that test Common Sense Reasoning (CSR). This task focuses on Indonesian local nuances and culture and is presented in COPA style. Here are a few examples of our data:
 
 |Premise|Choice 1|Choice 2|Question Type|Label|
 |-------|---|--|--|--|
 |Penumpang angkutan umum ingin turun di jalan.|Penumpang teriak "kanan"|Penumpang teriak "kiri"|effect|Choice 2
 |Dia merasa masuk angin|Dia membuka jendela untuk meperbaiki sirkulasi udara|Dia meminta tolong untuk kerokan|effect|Choice 2|
 |Kemarin malam, ia baru selesai jaga lilin.|Ia adalah orang yang taat beribadah|Ia percaya dengan ilmu hitam|cause|Choice 2|
-Ia dibawa ke kantor polisi akibat mencuri televisi|Ia tertangkap basah membawa televisi|Ia membawa televisi dengan tangan merah|cause|Choice 1
+Ia dibawa ke kantor polisi akibat mencuri televisi|Ia tertangkap basah membawa televisi|Ia membawa televisi dengan tangan merah|cause|Choice 1|
 
+## How to run our benchmark
+
+You can use `lm-evaluation-harness` (install from this repository: https://github.com/EleutherAI/lm-evaluation-harness) and select `copal_id_standard` or `copal_id_colloquial` tasks.
+
+For instance, run this command directly on your `cli`:
+
+**Standard COPAL ID**
+```
+lm_eval --model hf --model_args pretrained=MODEL --tasks copal_id_standard --device cuda:0 --batch_size 8
+```
+
+**Colloquial COPAL ID**
+```
+lm_eval --model hf --model_args pretrained=MODEL --tasks copal_id_colloquial --device cuda:0 --batch_size 8
+```
+
+Change `MODEL` and the arguments accordingly.
 
 ## Data
 
@@ -28,9 +45,7 @@ Further detailed information will be provided in the future!
 
 ## Code
 
-To be announced. Wait for us cleaning our code 🙏🙏, especially for messy stuffs. 
-
-For instance, we are cleaning stuffs that look like these: `# DONT CHANGE THIS CODE OR IT WILL BREAK`, `print('TESTTESTTEST')`, `print("CAT A MEONG MEOW")`, `how_should_i_name_this_var=123`.
+We use `lm-evaluation-harness` instead.
 
 ## Cite Our Work
 
@@ -51,5 +66,5 @@ For instance, we are cleaning stuffs that look like these: `# DONT CHANGE THIS C
 1. Haryo Akbarianto Wibowo @ MBZUAI
 2. Erland Hilman Fuadi @ Independent Researcher
 3. Made Nindyatama Nityasya @ Independent Researcher
-4. Radityo Eko Prasojo @ Pitik
-5. Alham Fikri Aji @MBZUAI
+4. Radityo Eko Prasojo @ Independent Researcher
+5. Alham Fikri Aji @ MBZUAI
